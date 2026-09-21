@@ -1,0 +1,6 @@
+[
+  {"category":"手机与消费电子","query":"smartphone OR mobile phone OR consumer electronics"},
+  {"category":"市场与渠道","query":"mobile phone distributor importer retail market"},
+  {"category":"物流与供应链","query":"electronics logistics shipping supply chain"},
+  {"category":"法规与合规","query":"smartphone certification regulation CE FCC RoHS"}
+]
