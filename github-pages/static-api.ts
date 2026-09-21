@@ -47,6 +47,11 @@ window.fetch = async (input: RequestInfo | URL, init?: RequestInit) => {
       const customer = { id: Date.now(), company: String(body.company ?? "").trim() || host, website: normalized, industry: "待补充", summary: "已从公开官网录入，请按实际业务补充行业与联系方式。", emails: "", phones: "", createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
       write(customerKey, [customer, ...customers]); return json({ customer }, 201);
     }
+    if (action === "importCustomer") {
+      const website = String(body.website ?? ""), normalized = website && !/^https?:/i.test(website) ? `https://${website}` : website;
+      const customer = { id: Date.now()+Math.floor(Math.random()*1000), company: String(body.company ?? "").trim() || normalized || "未命名客户", website: normalized, industry: String(body.industry ?? "综合贸易"), summary: String(body.summary ?? "采集线索导入"), emails: String(body.emails ?? ""), phones: String(body.phones ?? ""), createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
+      write(customerKey, [customer, ...customers]); return json({ customer }, 201);
+    }
     if (action === "refreshCustomers") return json({ updated: 0, total: customers.length });
     if (action === "saveProduct") {
       const id = Number(body.id) || Date.now();

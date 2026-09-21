@@ -25,6 +25,11 @@ export async function POST(request: Request) {
       const [customer] = await db.insert(customerResearch).values({ ownerId, company, website:info.website, industry:info.industry, summary:info.summary, emails:info.emails, phones:info.phones, sourceTitle:info.title,updatedAt:new Date().toISOString() }).returning();
       return Response.json({ customer }, { status: 201 });
     }
+    if(body.action==="importCustomer"){
+      const rawWebsite=String(body.website??"").trim(),website=rawWebsite?safeUrl(rawWebsite).href:"";
+      const [customer]=await db.insert(customerResearch).values({ownerId,company:String(body.company??"").trim()||website||"未命名客户",website,industry:String(body.industry??"综合贸易"),summary:String(body.summary??"采集线索导入"),emails:String(body.emails??""),phones:String(body.phones??""),sourceTitle:"线索采集器",updatedAt:new Date().toISOString()}).returning();
+      return Response.json({customer},{status:201});
+    }
     if(body.action==="refreshCustomers"){const rows=await db.select().from(customerResearch).where(eq(customerResearch.ownerId,ownerId));let updated=0;for(const row of rows){try{const info=await inspectWebsite(row.website);await db.update(customerResearch).set({industry:info.industry,summary:info.summary,emails:info.emails,phones:info.phones,sourceTitle:info.title,updatedAt:new Date().toISOString()}).where(and(eq(customerResearch.id,row.id),eq(customerResearch.ownerId,ownerId)));updated++}catch{/* Keep the stored record when a website is temporarily unavailable. */}}return Response.json({updated,total:rows.length})}
     if (body.action === "saveProduct") {
       const name = String(body.name ?? "").trim(), model = String(body.model ?? "").trim(); if (!name || !model) return Response.json({ error: "产品名称和型号不能为空" }, { status: 400 });
