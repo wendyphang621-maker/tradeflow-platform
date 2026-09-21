@@ -5,6 +5,16 @@ const sources = JSON.parse(await fs.readFile("industry-sources.json", "utf8"));
 const decode = (value = "") => value.replace(/<!\[CDATA\[|\]\]>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const value = (block, tag) => decode(block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"))?.[1] ?? "");
 const items = [];
+const chineseSummary = (item) => {
+  const topic = item.title.replace(/\s+-\s+[^-]+$/, "");
+  const guidance = {
+    "手机与消费电子": "主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。",
+    "市场与渠道": "主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。",
+    "物流与供应链": "主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。",
+    "法规与合规": "主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。",
+  }[item.category] ?? "建议结合客户、价格、交期和合规要求评估对业务的影响。";
+  return `本条资讯关注“${topic}”。${guidance}`;
+};
 
 for (const source of sources) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(source.query)}&hl=en-US&gl=US&ceid=US:en`;
@@ -20,7 +30,8 @@ for (const source of sources) {
 }
 
 const unique = [...new Map(items.map(item => [item.link, item])).values()]
-  .sort((a, b) => Date.parse(b.published) - Date.parse(a.published)).slice(0, 80);
+  .sort((a, b) => Date.parse(b.published) - Date.parse(a.published)).slice(0, 80)
+  .map(item => ({ ...item, summaryZh: chineseSummary(item) }));
 const focusMap = {
   "手机与消费电子": "关注新品规格、芯片与电池技术，以及主要品牌的价格和发布节奏。",
   "市场与渠道": "关注重点国家需求、分销商变化、零售价格和渠道库存。",
