@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-04T06:49:51.396Z",
+  "updatedAt": "2026-10-05T07:03:17.467Z",
   "summaries": [
     {
       "category": "手机与消费电子",
-      "count": 48,
-      "overview": "今日收录 48 条，重点包括：5 Tech Giants That Lost the Mobile Phone War；Safaricom’s Masoko Named Best Mobile and Consumer Electronics E-Commerce Website 2026。",
+      "count": 49,
+      "overview": "今日收录 49 条，重点包括：5 Tech Giants That Lost the Mobile Phone War；Safaricom’s Masoko Named Best Mobile and Consumer Electronics E-Commerce Website 2026。",
       "focus": "关注新品规格、芯片与电池技术，以及主要品牌的价格和发布节奏。"
     },
     {
@@ -16,17 +16,26 @@
     {
       "category": "物流与供应链",
       "count": 12,
-      "overview": "今日收录 12 条，重点包括：Top 15 Logistics Companies in Dubai for eCommerce in 2026；15 Best Shipping Companies in India for 2026。",
+      "overview": "今日收录 12 条，重点包括：Battery Transportation Containers Market To 2035: EV Battery Logistics Demand Drives Growth - News and Statistics；15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers。",
       "focus": "关注运价、港口时效、关键零部件供应和交付风险。"
     },
     {
       "category": "法规与合规",
-      "count": 5,
-      "overview": "今日收录 5 条，重点包括：FAQs: What Requirements Must a Professional Smoke Detector Supplier from China Meet for European Hotels?；Top 10 Factories of Personal Alarm from China: ARIZA, CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certified。",
+      "count": 4,
+      "overview": "今日收录 4 条，重点包括：Top 10 Factories of Personal Alarm from China: ARIZA Ranks High with CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certifications；FAQs: What Requirements Must a Professional Smoke Detector Supplier from China Meet for European Hotels?。",
       "focus": "关注 CE、FCC、RoHS、产品准入、关税和数据合规变化。"
     }
   ],
   "items": [
+    {
+      "title": "Battery Transportation Containers Market To 2035: EV Battery Logistics Demand Drives Growth - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEltaEwxdUdsMFZTZ2x2dFRwS0JaOUxYb1FMNUp0VXlyZ3FLdDNQVS1wTkVHZ3hNWXZTU0JxMUdLSDM5Zm8zN2RYTmRjM1pvQzFzYXphTVdIZG5Id1VZQklQRVdqRlRWWlRZSER1anczaTRkUzdQTk5pYVB2djZRdGNQX1N5d2pzQktQMHlhTERORnUwQjRXUkQzQ0l1eGJRWmxwbXdJWkZaOWVKQ0ZCeVVCVnhSNDZzREwwRzc3bUNUZzg?oc=5",
+      "source": "IndexBox",
+      "published": "Sun, 04 Oct 2026 15:31:03 GMT",
+      "category": "物流与供应链",
+      "summary": "Battery Transportation Containers Market To 2035: EV Battery Logistics Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "summaryZh": "本条资讯关注“Battery Transportation Containers Market To 2035: EV Battery Logistics Demand Drives Growth - News and Statistics”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
     {
       "title": "5 Tech Giants That Lost the Mobile Phone War - Gadget Review",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlbklkYXhpOEVDbXY2N1ZrNWZad1RKTzVzMTZUaTg5WF9vSmdfREZleGNsa3hERXFSLUVyaDZkUzFFZXpxbnpMaEFjNm03ZmRiamZ6ejB5ZWdweGRXZklLNVNBek94NUhuN0M0WHFCYWtWNm15T0E?oc=5",
@@ -46,6 +55,15 @@
       "summaryZh": "本条资讯关注“Safaricom’s Masoko Named Best Mobile and Consumer Electronics E-Commerce Website 2026”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Child-Focused Phone Designs: Freckle's Smartphone Helps Kids Roam Independently - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5b0VUeUxUWHpyY0JYellhYXNqZDEzSXpfME16NmQ0aV8tb0F3NlB4SWpTS0FWYm0xekdqVlZyVTJoWUR5Zm1ZUjE3c2VsR3hNd0c5ZGdZVzZaZEV2QmVDZmswRnNZdFFMM01r?oc=5",
+      "source": "Trend Hunter",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Child-Focused Phone Designs: Freckle's Smartphone Helps Kids Roam Independently &nbsp;&nbsp; Trend Hunter",
+      "summaryZh": "本条资讯关注“Child-Focused Phone Designs: Freckle's Smartphone Helps Kids Roam Independently”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "Cell phones in schools - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cEtUcnRTUExIMWdmUk91VnJhcll5S3g0bjZERWpWLWNoaTlvUi1keWhKU2dsZDdUTnZ6NFFGakhZM242clU3RnZXRTZWRzlpOWMxUDRLLWRYN24zVUxZZmFB?oc=5",
       "source": "Britannica",
@@ -55,6 +73,15 @@
       "summaryZh": "本条资讯关注“Cell phones in schools”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Top 10 Factories of Personal Alarm from China: ARIZA Ranks High with CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certifications - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUtvZlZNLTZYenRtcXVDeFNKb0VOOWxQaXBTRGtGUVozNFVieXpzX0tiYnV1d09pNXNDNGZNV1pNLWNwSFJaVzNpUWdfYXFjeVRicnNEYjZmYzJNdVV5MEpGcGwwWEFSeGVyN2xVMkRyVldySDhGbkUtVUVQS0JDekJMZWhTakxkd2ZIOVBMVmVlRXI3TjFGeDBjZGgyQk5SbGptZG1zaUtvZEx6Q3pBbGoweTk1TVdlM2NaRUhQMVdNSWNOVm82SWhfYng4M3FYTnJ4UE5LNlY4aF9rbmpwbnlOVVM5SkVqU284?oc=5",
+      "source": "EIN News",
+      "published": "Wed, 30 Sep 2026 04:58:00 GMT",
+      "category": "法规与合规",
+      "summary": "Top 10 Factories of Personal Alarm from China: ARIZA Ranks High with CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certifications &nbsp;&nbsp; EIN News",
+      "summaryZh": "本条资讯关注“Top 10 Factories of Personal Alarm from China: ARIZA Ranks High with CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certifications”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
+    },
+    {
       "title": "FAQs: What Requirements Must a Professional Smoke Detector Supplier from China Meet for European Hotels? - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGkxVmdYT3pYLXVsc2k1VUJ2dEh0Y3pjYzJyYmwtbnhsaTFVaUthNHdXdTVqc0NwckoxbWY1U2dtenJkbDg3SVNSU0dWVWRKbGRqMGszalV4SG9fa1NwVUxnYWxISnJ1Q3BxVzV5aU1DWXF4dG0zMTlwT1FrZU1pV2k2TlhSdHhvaE9yWGhzZEJ2LTJ5V09zRg?oc=5",
       "source": "openPR.com",
@@ -62,15 +89,6 @@
       "category": "法规与合规",
       "summary": "FAQs: What Requirements Must a Professional Smoke Detector Supplier from China Meet for European Hotels? &nbsp;&nbsp; openPR.com",
       "summaryZh": "本条资讯关注“FAQs: What Requirements Must a Professional Smoke Detector Supplier from China Meet for European Hotels?”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
-    },
-    {
-      "title": "Top 10 Factories of Personal Alarm from China: ARIZA, CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certified - openPR.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVZwZFQ1anRKdllzV0tNTVJtN3Naak10N2NHelJIQ00xdkhkM2tJOVA0N25BaXVDMWM2OVdFVWFYYWZDdnBoMXQ3Qm5sMmtrUk03ZUxUZmhxQmp4VmZyTmRrcVRPQTY2QnJRdFZiMWdYSW5qQTBKejdNUEFPNWtHUUVaOWxkWlVBX2FJSWRXUUprUHN3b3AxXzJMdw?oc=5",
-      "source": "openPR.com",
-      "published": "Wed, 30 Sep 2026 02:33:21 GMT",
-      "category": "法规与合规",
-      "summary": "Top 10 Factories of Personal Alarm from China: ARIZA, CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certified &nbsp;&nbsp; openPR.com",
-      "summaryZh": "本条资讯关注“Top 10 Factories of Personal Alarm from China: ARIZA, CE, ROHS, FCC, UKCA, CP65, ISO 9001 Certified”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
     },
     {
       "title": "Kazakhstan's Mobile Phone Market Report 2026 - Prices, Size, Forecast, and Companies - IndexBox",
@@ -91,22 +109,22 @@
       "summaryZh": "本条资讯关注“Finland's Mobile Phone Market Report 2026 - Prices, Size, Forecast, and Companies”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "Which Samsung Galaxy Phone Should You Buy? - wired.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iTXFzckd2U2RMdnczdHgwemw2UGR3SnpuUGpWQmtBZnNFM2t4NjRobVhKMldUbzNkOXpTYWZwcy0tbHZXeTlPUWVuVDVKWml0Sk1NbWx4YjN4R0NNdkww?oc=5",
-      "source": "wired.com",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "title": "Electronics Secretary S. Krishnan says India meets 99.2% of domestic mobile phone demand - newsonair.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWRlamFKMGh1U29zcUxndS15Q09aRnJSNnNKZXM5WjExLTFkWUJWeXVqMDloS0RZdlJIQmRPNTd2VTh0b0EzNXZ4UmpWZnMxU3JhN0tXSTJvMjBicG81SHNtcXYtaEdEblFnRGxaeWJYOW1rdFMyY0hmLTB5SlZaUjNqMEh2cW5VckY1cUtJOWF6ZGZmMWF4bVVRSDJ3Y0hMVXlmOHJFbHYtaWVfRFhsSV93?oc=5",
+      "source": "newsonair.gov.in",
+      "published": "Thu, 24 Sep 2026 08:50:01 GMT",
       "category": "手机与消费电子",
-      "summary": "Which Samsung Galaxy Phone Should You Buy? &nbsp;&nbsp; wired.com",
-      "summaryZh": "本条资讯关注“Which Samsung Galaxy Phone Should You Buy?”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "summary": "Electronics Secretary S. Krishnan says India meets 99.2% of domestic mobile phone demand &nbsp;&nbsp; newsonair.gov.in",
+      "summaryZh": "本条资讯关注“Electronics Secretary S. Krishnan says India meets 99.2% of domestic mobile phone demand”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "iPhone vs. Android: Who's Winning Right Now? - pcmag.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWDdjNWozaGRJb3BCaHNCUHphemhLaC03ZkJGQm5HUENSTWQxT3RidWZseUI3Q0ozbUNSMHE3T3VTVVlYdURWTEE3SV9ZOF9wNzJ4V1RaVmZpVHJDaG4tRUFjZkdDZ25NMG1WUDVZc0NiVkFJUHdZUFdEUm1DMjh2NHBMTkxWRVV6S0Job2QtMmtPUHVwRzlpWmk4elVsdw?oc=5",
-      "source": "pcmag.com",
+      "title": "Which Samsung Galaxy Phone Should You Buy? - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iTXFzckd2U2RMdnczdHgwemw2UGR3SnpuUGpWQmtBZnNFM2t4NjRobVhKMldUbzNkOXpTYWZwcy0tbHZXeTlPUWVuVDVKWml0Sk1NbWx4YjN4R0NNdkww?oc=5",
+      "source": "WIRED",
       "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "iPhone vs. Android: Who's Winning Right Now? &nbsp;&nbsp; pcmag.com",
-      "summaryZh": "本条资讯关注“iPhone vs. Android: Who's Winning Right Now?”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "summary": "Which Samsung Galaxy Phone Should You Buy? &nbsp;&nbsp; WIRED",
+      "summaryZh": "本条资讯关注“Which Samsung Galaxy Phone Should You Buy?”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "NCC Device Registration May Increase Phone Prices, Burden Nigerians, Says Mugu - Sahara Reporters",
@@ -118,6 +136,15 @@
       "summaryZh": "本条资讯关注“NCC Device Registration May Increase Phone Prices, Burden Nigerians, Says Mugu”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
+      "title": "15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers - ClickPost",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LU2JVTDlhTFAtRmducGhXQjV2cDVzVkFVdXhzNHF2ZW9EYzkyNms2OGRlVmNST1d6ZFJQWXAxMHlpaUc4Zzlnd0tsSDZrVUpQelRzN0w4eU5MVk0tQ29uZTNzbWFzMFJvZFRF?oc=5",
+      "source": "ClickPost",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers &nbsp;&nbsp; ClickPost",
+      "summaryZh": "本条资讯关注“15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
       "title": "Top 15 Logistics Companies in Dubai for eCommerce in 2026 - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVlZvc3lTVDYxWXUtUVVLYXltYURTbjA0TDNiVVN4TU1fQVRlbjlGOGU1bU9EQVpaLWJ1eTdCLUhZZVZpZVI2QXVwQkt5T2x5a2dtaGpGWmpUS3lXdHVPRUhSLU5GeXpwWGc?oc=5",
       "source": "ClickPost",
@@ -127,13 +154,13 @@
       "summaryZh": "本条资讯关注“Top 15 Logistics Companies in Dubai for eCommerce in 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "The Best Camera Phones for 2026 - PCMag Australia",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZUoydTdTTl83R0ZjUkpob1lRdGhxaURWTHU3OEhjbnV2NG5rMjhZbFBXcEk1NzhUc1BuZjlsTHdjQzFqWTRwdFNFempNVFFpelNlOUt2UC02eU5SNnNWc2tKY2s3bko0TzRrMG5TWjU?oc=5",
-      "source": "PCMag Australia",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "The Best Camera Phones for 2026 &nbsp;&nbsp; PCMag Australia",
-      "summaryZh": "本条资讯关注“The Best Camera Phones for 2026”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "title": "IMEI in 2026: New Rules for Importers and Sellers - Торгсофт",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sd1I5N0lnZXNuYnN2MGcxcXlfMWduY2tiTm9SeDNfUDVlZ3k5Q085LUZFbWg3SU5WX2U4cjlkMmNHSXFOWHRsNW1IMHFnUGhYVmxyTzd6Q1g3MTd0Sk50VExR?oc=5",
+      "source": "Торгсофт",
+      "published": "Tue, 22 Sep 2026 08:51:00 GMT",
+      "category": "市场与渠道",
+      "summary": "IMEI in 2026: New Rules for Importers and Sellers &nbsp;&nbsp; Торгсофт",
+      "summaryZh": "本条资讯关注“IMEI in 2026: New Rules for Importers and Sellers”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "15 Best Shipping Companies in India for 2026 - ClickPost",
@@ -172,15 +199,6 @@
       "summaryZh": "本条资讯关注“Compliance-Ready Powersports Audio: Hisound carAudio FCC & Rohs Certified ATV Sound Bar Bluetooth Solutions”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
     },
     {
-      "title": "15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers - ClickPost",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LU2JVTDlhTFAtRmducGhXQjV2cDVzVkFVdXhzNHF2ZW9EYzkyNms2OGRlVmNST1d6ZFJQWXAxMHlpaUc4Zzlnd0tsSDZrVUpQelRzN0w4eU5MVk0tQ29uZTNzbWFzMFJvZFRF?oc=5",
-      "source": "ClickPost",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers &nbsp;&nbsp; ClickPost",
-      "summaryZh": "本条资讯关注“15 Best Logistics Companies in Canada (2026): Top 3PL, Freight & Shipping Providers”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
       "title": "Top 10 Logistics Companies in Georgia Driving Commerce Efficiency - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UVDg4VC01UExwbDJNMGVGUkZ6RlRQNWNMMFhNM3ppQnhOSE02TnF0MWhCSlhZSEpMWHJuQVFSQ3J0bnNHby04MjJsNjJRX0JpdUZwZ0h6QVA3Q0JsY0VMQ0V0T3ktLXpHMXBJeE1BOG0yQTFjcXc?oc=5",
       "source": "ClickPost",
@@ -188,15 +206,6 @@
       "category": "物流与供应链",
       "summary": "Top 10 Logistics Companies in Georgia Driving Commerce Efficiency &nbsp;&nbsp; ClickPost",
       "summaryZh": "本条资讯关注“Top 10 Logistics Companies in Georgia Driving Commerce Efficiency”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "The best iPhones: which Apple smartphone is right for you, according to our expert - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0pubVFUZlhQczBWeW1NRnVxa0RVbEZzcWgwNVZrWlQwckhKT29sMEtEVk9kQzlJY0I0VHBwVUlwZGhyd3hhaHpRYkNnRXB4VUx2LUk2Ti13a0UxN0QxenlPNzdMN2Rsa3FCNnFrNk1PaEQ1X185bzhYZ0VGQUFkdGVn?oc=5",
-      "source": "The Guardian",
-      "published": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "The best iPhones: which Apple smartphone is right for you, according to our expert &nbsp;&nbsp; The Guardian",
-      "summaryZh": "本条资讯关注“The best iPhones: which Apple smartphone is right for you, according to our expert”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Cut GST on mobile phones to 5%; rising component prices hit affordability: Industry to FM Nirmala Sitharaman - electronics.economictimes.indiatimes.com",
@@ -217,6 +226,15 @@
       "summaryZh": "本条资讯关注“Biodegradable/Eco-friendly Phone Cases Market Size, [2034]”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Mobile phone makers seek 13% GST cut amid dip in demand, rising memory prices - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDJQdWtfaThVcEJYRWMyeEdmazFNVFRxUVZyajFWSFRHUEwzaEZFQVZNczViemt1dVJLdDNwM2NhSDljaUt2X2Focncwc1lGbERMWVl1TFg3SUFzeFZSRFhWMmhxbFJGM2UzRjNxeVlIamNqTng3UE02RjJuYWlBLUlSQ2x3UWZkeUxoakJsdlBKcC1qMU83bzBTVC1EaTRKcDh5SFJ0S1lvb1BMN3hDSE5qc2JoWUlhdWxnUVZzMkhWalRMb0Vqa3N5NnjSAdIBQVVfeXFMTVc4cVlKRWs2UjdvZGstbVZqTUdkTHpzQko0emFqRDFrVjZRWHJBb25FWmVXQVJZT1hpRFhPQ0hvVGpKbHZ4dHk0cGZaZjZRa0l1TS02Z3dYWWZON3FHY3dOaElONHp0UUx6aTV2MWRLY1VEbVBIeE10MnExeVVoOGR5T1REUzRHX3NFV290SnlxcUZPYlYyMEd5eHVtQUFqQ0RQbDg2M3lqZjBlV2dhTXhoWlFjeHZxR2hMVmlqZUxVNmVsVmdSRndBTGVfakR5SE13?oc=5",
+      "source": "CNBC TV18",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Mobile phone makers seek 13% GST cut amid dip in demand, rising memory prices &nbsp;&nbsp; CNBC TV18",
+      "summaryZh": "本条资讯关注“Mobile phone makers seek 13% GST cut amid dip in demand, rising memory prices”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "Consumer Electronics Market Size, Share, Trends, Growth, 2034 - Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCaDZfREVEenJCbTFEY05KVEVYVDduUW02WFpSSDhmbVJKSUlsUnp6d2lvelcyVU5VQVIzSzFHU3hQOUZrSGtPVVU2QXN4NkdBSUNSeWpfWTRBY3NQcktfNlZ0SFV2dE91TlVGb1NxXzNic0lpclIwanppMEFJOEk?oc=5",
       "source": "Fortune Business Insights",
@@ -226,12 +244,21 @@
       "summaryZh": "本条资讯关注“Consumer Electronics Market Size, Share, Trends, Growth, 2034”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales - 36 Kr",
+      "title": "High Tech Logistics Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PdU92MDhwMFVORVNKdDhIaW9qeXFrcUlJODE2c2hiR0NNWDd2enc1WVlqYWtSRmk1LVJqbEZ0c0dqaGNGMUk3V3Z0aXZ3RHE5cHlHRllXNVRwbEszenFXSXE2UW5RQ05HUkdoSmF6SEJsRllRdjg2bVBaQlJnUQ?oc=5",
+      "source": "Fortune Business Insights",
+      "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "High Tech Logistics Market Size, Share | Growth Forecast [2034] &nbsp;&nbsp; Fortune Business Insights",
+      "summaryZh": "本条资讯关注“High Tech Logistics Market Size, Share | Growth Forecast [2034]”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52N19xakpGZzZZYWxVaE5ibkNoZTdjNFRSR2d2ZkVtMlhLVHpIQmNYYzBrNk1kbUQ2N2E3MktuMG11dnVVdHJDdGFkTzhLUnozZVVV?oc=5",
-      "source": "36 Kr",
+      "source": "36Kr",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales &nbsp;&nbsp; 36 Kr",
+      "summary": "The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales &nbsp;&nbsp; 36Kr",
       "summaryZh": "本条资讯关注“The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
@@ -244,12 +271,12 @@
       "summaryZh": "本条资讯关注“Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "The First Customer Question Should Change the Product Record - borkena.com",
+      "title": "The First Customer Question Should Change the Product Record - Borkena",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkV4dVpMWUNNT0FLb0phM05ueFhJYU5ranNEbkw2YU5iMkt1elI1cnUzeUVwalBpQUFQdW9XYW1HOTZoM3dUNWM3enZRWFlMTEoyd1JVLU9abDd1UFFGZmczOVg1NjFhSzVPTDM0NFRwSTBlcUd4UlZIVDBPeDdTQndPbDg2TWRn?oc=5",
-      "source": "borkena.com",
+      "source": "Borkena",
       "published": "Tue, 08 Sep 2026 07:00:00 GMT",
       "category": "市场与渠道",
-      "summary": "The First Customer Question Should Change the Product Record &nbsp;&nbsp; borkena.com",
+      "summary": "The First Customer Question Should Change the Product Record &nbsp;&nbsp; Borkena",
       "summaryZh": "本条资讯关注“The First Customer Question Should Change the Product Record”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
@@ -260,15 +287,6 @@
       "category": "物流与供应链",
       "summary": "Top-Rated Logistics Companies in New York City for Fast & Secure Deliveries &nbsp;&nbsp; ClickPost",
       "summaryZh": "本条资讯关注“Top-Rated Logistics Companies in New York City for Fast & Secure Deliveries”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "High Tech Logistics Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PdU92MDhwMFVORVNKdDhIaW9qeXFrcUlJODE2c2hiR0NNWDd2enc1WVlqYWtSRmk1LVJqbEZ0c0dqaGNGMUk3V3Z0aXZ3RHE5cHlHRllXNVRwbEszenFXSXE2UW5RQ05HUkdoSmF6SEJsRllRdjg2bVBaQlJnUQ?oc=5",
-      "source": "Fortune Business Insights",
-      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "High Tech Logistics Market Size, Share | Growth Forecast [2034] &nbsp;&nbsp; Fortune Business Insights",
-      "summaryZh": "本条资讯关注“High Tech Logistics Market Size, Share | Growth Forecast [2034]”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Creatulize Unveils X1 Series Autonomous Bed-Cleaning Robots At IFA 2026 - Ubergizmo",
@@ -289,12 +307,12 @@
       "summaryZh": "本条资讯关注“The Best Android Phones for 2026”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "The Best MagSafe Grips for Not Dropping Your Phone on Your Face - wired.com",
+      "title": "The Best MagSafe Grips for Not Dropping Your Phone on Your Face - WIRED",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0cmdvbkwyalh0UEM0V3FkWlB0YnlTcXVrOUI1Mm5WSEI4QVhBb3hQcTVoSE10RS1ITVJhaVBNTjBmemFaeG1IdlBHTTkzcTdhQ3pKZnpwUFMxSUJ5V2c?oc=5",
-      "source": "wired.com",
+      "source": "WIRED",
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "The Best MagSafe Grips for Not Dropping Your Phone on Your Face &nbsp;&nbsp; wired.com",
+      "summary": "The Best MagSafe Grips for Not Dropping Your Phone on Your Face &nbsp;&nbsp; WIRED",
       "summaryZh": "本条资讯关注“The Best MagSafe Grips for Not Dropping Your Phone on Your Face”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
@@ -334,6 +352,24 @@
       "summaryZh": "本条资讯关注“Smartphone Shipments Set for Record 16.7% Drop in 2026, as the Memory Crisis Hits Full Force”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "₹62,500-crore phone manufacturing scheme to boost DVA, foster champion Indian brands: Executives - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMTh3aWp1c1hVVERkMDB1M1FMdzJHOThpUDhBSlNnam1qWW1WZ01MLVdraWV2X1RkNEFlakpEUDY3ejBGTUNrMTI5Y3BUeUVBZWpoajFOT0xGR04wM2xxWnhnM2NmYmVBeC15ZFY3S0JrN1RENW52d1pOZ0NVeGNucFN3Q25BeXZkOXFrYUx5NE4yV0JrLW5zNFB6QVdmRVF1dGhjbUdKaTJTNVhnbnBxR3VyMXZ3LUNqbl82VnBNNjJEdEpmTXltbUhXc21ybnNNWnotM0VlMHR2bXFqN0R6U3BkQUkyeWRkQ1hwaGRidVAtZTRrcE5RV2JkSklJLVo3MXlLLWlRMNIBjAJBVV95cUxQVnlxR096c1REcGlTckpybGpSeENFX3hSYUV3MUN0bG5BOGJhbFJkek5yX25zVVpLSWNQbzZ5NTRVUktSYkpKdjUzc2lpaXZJeExEUk1ObGMyWW8wckh5QmlKak00a2dNZ1JtMUxUVkhLOWdYdmRrRzFMenB2TGF0ZmxrR3A4R0QwTkIzd1RzRjRtU2FvNjNVdDEwdDVxN2p2cHZqNmNBaXFEWWV1NHZEbzNoZXE0V0tLVksxb0dfcEZ2dWFwa180UkFsZGtnenZsbDNSdzl6SVVGNWpCOTA4N3pRUUkyUjZLRlRkNW55MElzcWhBb3FiS3BlbDI4ZElfR2I3LVlnc1lEakhN?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "₹62,500-crore phone manufacturing scheme to boost DVA, foster champion Indian brands: Executives &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
+      "summaryZh": "本条资讯关注“₹62,500-crore phone manufacturing scheme to boost DVA, foster champion Indian brands: Executives”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "India Unveils ₹62,500-Crore Mobile Phone Manufacturing Scheme to Deepen Electronics Localisation - ELE Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWZIZEdjSnhxaXd0WFVJc2Q2S3pxV1lnTmhxNnZIeDJybjJpREl1V0FZbWFKT2VrT1lJTjRwVTRYOXFlcFFrMkU3X2I4UzRtVFdCN29xd2FqTkpFOHVhcUZDaTFsZzF6dDdVbmVaMW1FUktCV0tScjh1Nk1JWlRVNVNMMERWZUwxV1lWMEh1Mlh6bEdwMFJvQ05GYTJSVHFfdWJFTlhhSmxnOXhNNWFkVDZqMHJHNWI3RjRBeUtpUlNGeWpjS0E?oc=5",
+      "source": "ELE Times",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "India Unveils ₹62,500-Crore Mobile Phone Manufacturing Scheme to Deepen Electronics Localisation &nbsp;&nbsp; ELE Times",
+      "summaryZh": "本条资讯关注“India Unveils ₹62,500-Crore Mobile Phone Manufacturing Scheme to Deepen Electronics Localisation”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "Fairphone 6+ review: the most repairable, ethical phone gets faster - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3duZjF3NWppUm5wM05lVWtHc3FMQVBZSjRUdUFNUnpvZ1k5emZMVk5pa3pBaHVoclJHVk42bkdxaUNCcTVKZmF5T1MtcmpuMkh6c2pCMFQyUktvRWRFNTU0NkY2ZHEwQmpweThzeXRVY1FYYVM0bTEyU1pCMG5sZkQxYUgtcm5MMjd0R0R0NTVvZUNXZWJ1SXFKaDFNN2F1Wi1BTUZnZExzRDkybkZPWmpRRE4zdw?oc=5",
       "source": "The Guardian",
@@ -352,6 +388,24 @@
       "summaryZh": "本条资讯关注“Five innovative smartphones and dumbphones that put design first”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Mobile Phone Manufacturing Scheme (MPMS) Latest News - Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFliMTg4Y0hHZ2JmQTVydm4yLTB0SzBNVnN5V0ZJMTk5bXNfUW5fWnJUY3l5SDc2cF9ud0Z6N3B2ZGpTVHVYblBOTnBKUzI2MjcwUEhDbnBFN1dFVkRhUFRLMmJVWThSWmRkVDRoS0tYWHM3TV9wdEozVmgzOC1JRGlaRFRrM21IVVE?oc=5",
+      "source": "Vajiram & Ravi",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Mobile Phone Manufacturing Scheme (MPMS) Latest News &nbsp;&nbsp; Vajiram & Ravi",
+      "summaryZh": "本条资讯关注“Mobile Phone Manufacturing Scheme (MPMS) Latest News”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS2F5dUU4YllJekF2b05DcEpHWVRmUWg3V3BtRWlLcFVYZjZvOXg0SnlLdHQyeEwwS25ESUVVNmllZk95Y0JfQkRoSmJ0Z1IyTjJmdEQxRUVTV3VCWWVFeU5raWRvdi1hOHdRYUZuYXBpaE9GMnNsbWlmd3BvLWtXNkM3d3FsUHl0R0V6dVJYd2NSQmpoMkFnRkZ0blg2V05PckdZOUE3TTVxSlVGYTRlLXIwa0RDVVBJVDgwNmZWSVhhbDZPZlhOS1gxd0ZJOHFoemdXbnN0STJSdWQwbWhLRUlyVWE5VXFwMkZaWF9leFBHdjRKbFI00gH8AUFVX3lxTFBWakpYSy15d2Z3RnFtMXZuZTdQU0ZaZW9vWnoyXzFYQU9OWEVsY0FvM3NYZU92RUYxaGh2bjZfRnFPUDEybmxGRUNQSklaZm9hUU5felZBQTN6bFZRSnNfMWZzNDBTajBpUWZKTmNGNW5DbGxtLXNIcm52eEJWZ3FoNmJYWm0xd0thbjRsY0Y1a1BCdGJSVWJxZ1FUWWdBUm1oTjJ3UnNmZmZub1VsQllOaFFkZTRvNnMyQU5PMUxCYnUzMFNqUzZKNzcwYjFDM0RjVnF0QVdveHQzRTJqaFlDNXk5U055VzNIbzlESWlCSzVMZVRVaVk2dVE4ZA?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
+      "summaryZh": "本条资讯关注“Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "India-designed mobile phones likely in 10-14 months under MPMS; no place for copycats: Ashwini Vaishnaw - electronics.economictimes.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNOU41OERYVzlRR3hBZTIxNEI5OUZXYXR6ODNDT3ZpOExEN3FiNTNCanBrUDU5SV9HVWF5QUlhRHlCaGFSbjlwaDVOSm1GT3dzd3EzN0lhNjVhYUROTkFiZ2c2SDRJb2lYc2R3YVdRaFFEbnhEbTYxQVNZc0VGZXZxZzFFM3FqWE40M25PdzgyQXlWaHFVRUo5RlhXSzdJbkNDY2x4V2pYR1VqX3Q3R19yYm1Jb2xkZEYyd0lpX3hYbGVGT3JBenFkT25YVEFvZkI5SDQ2dGtyU3pTUWZQU044U29QUWxzVkFYejIySVAtZmVhZDBvMXFObW1mQmdZakZTR2dTNWluRll6WnlhQ2pmVE1ya9IBmAJBVV95cUxPUk13bDVFRngyNVJIOFZsVHF1Znh5QVhwVWJHUHdSLXdHMnB5aW5XeUlRc1NDc2JIcmN1aV9CcmRYZFpfVVpwUnU5UjJRZTVxRTJiaktMajlWSWdROW5OWGpsdGlkMzg2UkZiT19iVlBvZkJsN3BDT0N2UDE5dGoyWnRKWTNFc0Nsc3NTMHNxZklQRHB5aGtxVWlPQWp3aXk4OF9HR005c0hRZkhqdUpWOXR4UWQzTXFBQUxGbFJMTGxJOThqTGo0T1FVSWtVaXNMcEhtdXh2TTRLLTNraVNWakQxSXRTaDJxdkh6bEhfUUNxZ2hTeHgyYjNPdllEbUFGQjdUZjR6VzBiTTI1TUhGY2Yxdm9vWElB?oc=5",
       "source": "electronics.economictimes.indiatimes.com",
@@ -359,6 +413,15 @@
       "category": "手机与消费电子",
       "summary": "India-designed mobile phones likely in 10-14 months under MPMS; no place for copycats: Ashwini Vaishnaw &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
       "summaryZh": "本条资讯关注“India-designed mobile phones likely in 10-14 months under MPMS; no place for copycats: Ashwini Vaishnaw”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Govt notifies Mobile Phone Manufacturing Scheme (MPMS) - Manorama Yearbook",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkkzNS1EQy1uN044TEJKS1ZqWmJyNWhtal9uQzloQW1LaGYzbmZ4V1cybFQ0WGxEU2tiQ1laTUd0OVlpYmM4ZzV3MU5rZkdqYXRpSHFQNmF0R01MUEJ5UXcwbEhuRUc5NWVqSzF3dm9RbFdLTmJpQlN3czIwTHA4SEZneVRyUEh6a2JpaFVTUHV2U0t6eGc1VDU0c3FpZkdYUWU1TUpvREY4eW80RXBmbDdVek5Qd1hsMVE?oc=5",
+      "source": "Manorama Yearbook",
+      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Govt notifies Mobile Phone Manufacturing Scheme (MPMS) &nbsp;&nbsp; Manorama Yearbook",
+      "summaryZh": "本条资讯关注“Govt notifies Mobile Phone Manufacturing Scheme (MPMS)”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "How To Start an Import-Export Business in 2026 - Shopify",
@@ -370,13 +433,40 @@
       "summaryZh": "本条资讯关注“How To Start an Import-Export Business in 2026”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY - electronics.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS2F5dUU4YllJekF2b05DcEpHWVRmUWg3V3BtRWlLcFVYZjZvOXg0SnlLdHQyeEwwS25ESUVVNmllZk95Y0JfQkRoSmJ0Z1IyTjJmdEQxRUVTV3VCWWVFeU5raWRvdi1hOHdRYUZuYXBpaE9GMnNsbWlmd3BvLWtXNkM3d3FsUHl0R0V6dVJYd2NSQmpoMkFnRkZ0blg2V05PckdZOUE3TTVxSlVGYTRlLXIwa0RDVVBJVDgwNmZWSVhhbDZPZlhOS1gxd0ZJOHFoemdXbnN0STJSdWQwbWhLRUlyVWE5VXFwMkZaWF9leFBHdjRKbFI00gH8AUFVX3lxTFBWakpYSy15d2Z3RnFtMXZuZTdQU0ZaZW9vWnoyXzFYQU9OWEVsY0FvM3NYZU92RUYxaGh2bjZfRnFPUDEybmxGRUNQSklaZm9hUU5felZBQTN6bFZRSnNfMWZzNDBTajBpUWZKTmNGNW5DbGxtLXNIcm52eEJWZ3FoNmJYWm0xd0thbjRsY0Y1a1BCdGJSVWJxZ1FUWWdBUm1oTjJ3UnNmZmZub1VsQllOaFFkZTRvNnMyQU5PMUxCYnUzMFNqUzZKNzcwYjFDM0RjVnF0QVdveHQzRTJqaFlDNXk5U055VzNIbzlESWlCSzVMZVRVaVk2dVE4ZA?oc=5",
-      "source": "electronics.economictimes.indiatimes.com",
+      "title": "Government Notifies ₹62,500 Cr Mobile Phone Manufacturing Scheme to Boost Global Competitiveness and Deepen Domestic Value Addition - PIB",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vTVpjTHdGeVN0c0xNTENiVV9YVlhzYi1YMTRoQ0xHTVNwR2YwWndkYmRFNndjT1RFdWd0NmFzWFFVSV95MWxualpvUHI2c0RkaU9fel92d1Bqa2s1emR0aU93cnBEZ05NY2VVM3JMN29QeU5LcDZTU3ZR?oc=5",
+      "source": "PIB",
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
-      "summaryZh": "本条资讯关注“Mobile phone makers with turnover of ₹10,000 crore in FY26 eligible for MPMS: MeitY”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "summary": "Government Notifies ₹62,500 Cr Mobile Phone Manufacturing Scheme to Boost Global Competitiveness and Deepen Domestic Value Addition &nbsp;&nbsp; PIB",
+      "summaryZh": "本条资讯关注“Government Notifies ₹62,500 Cr Mobile Phone Manufacturing Scheme to Boost Global Competitiveness and Deepen Domestic Value Addition”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost India’s Electronics Sector - ddindia.co.in",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmdnbHV4N3pqaVI2TGVzRFJfLUo5akNvdTJKWlhOYUJ5dUhzYzJsczV0d2dKb1lmMkpVcDB0eWE2VV9WTklDVWhfMXIwV1VOaHl3dkh0OEZ1RzMwNDJLRHpIVjFReDEzWlkzblpOTDFQT2Y3TS1tQ3R6aW1EVl9MMGJCeW4xTkl5X2hJSENueGh5TEF3VFhPbmxJOERkV3kta3hpdURoLUJaMUhYdlU0QUhYZjcyT2ROZV9fZA?oc=5",
+      "source": "ddindia.co.in",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost India’s Electronics Sector &nbsp;&nbsp; ddindia.co.in",
+      "summaryZh": "本条资讯关注“₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost India’s Electronics Sector”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Government Notifies ₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost Domestic Value Addition - ddindia.co.in",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHA3TzdVcm9sbXJBa2VYTmNGRGxadWhGWll1LVJxN2FZUE1fMlBxRXh0TzEzQWdYcHJwQW1rbmFCOTloVms2NUUwM0tidXRyeHA2ekgzS1JtMGlESnRGZm1xaGZsRWdsVUV4LWhVdEVnQmEyWWd6ZXQ5ZVJYUFRkOGZuZGQ2dHhnMDk0ZGJqbHpETjA1RnJ2ZzFDc2ZsWE1jcmxPekVtd21yZEZYcTVJSEtxQjc0ZzZaRDBsSmlPLVRueVdmTmY1SDhLdWJ2YlJ0Z0ZaZQ?oc=5",
+      "source": "ddindia.co.in",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Government Notifies ₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost Domestic Value Addition &nbsp;&nbsp; ddindia.co.in",
+      "summaryZh": "本条资讯关注“Government Notifies ₹62,500 Crore Mobile Phone Manufacturing Scheme to Boost Domestic Value Addition”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Govt notifies mobile phone manufacturing scheme; extra incentives for Indian brands - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0dtVjV2dXpxTkRmSFMxc3JGckRzMGVpQWhScWREdHJSYmpaLVM0Ri05Y0NDLUFjY2tCRTQ2WlNfRFI2UWNaeVVUNWEyU05yQ1JWTmN1TmxyR2c2WmRjWGtQVHlJMjRpdm51QVljTVlOVTE2UEtsUzFVRU5YbGw5NDJPWEhWblBHNjNNeEFmNWMxd2hmNVV1bDlWRDNiQmFBYW50ZXhlTWltakhHQVZ4cjYxbTZVYmN2ek5FUTFFalZMODd6UHhja2MwbmlLOXdoTkHSAdgBQVVfeXFMT05SR0ZnTXhkMjdyV0lBOEJuakotNUNjUVZHUlBiTXY4TXdURU9obEF1T2tkb3hWYUR5WDZpSmxOUFpiYnd6WFkwZDAwSlYzN2l4ZVMteWQ0N21SOGdDZzZqMW9zLXJhQWpDMklDQWJMU1BxMlVLV2NHZVJxcW4wdTEzQkRUbmNkblI5WVo2bl8ydmh4eU90dldodjFNM1BZdHg5RzNlSTF3ZjdYZGJZMUlzeFZscGM2SHR4Wkc3ZXdSYWJxU0VhZW96cWJ3Z0VKRXRZRFU1MjYy?oc=5",
+      "source": "The Hindu",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Govt notifies mobile phone manufacturing scheme; extra incentives for Indian brands &nbsp;&nbsp; The Hindu",
+      "summaryZh": "本条资讯关注“Govt notifies mobile phone manufacturing scheme; extra incentives for Indian brands”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge - CNBC",
@@ -433,6 +523,33 @@
       "summaryZh": "本条资讯关注“Keyboard Android Smartphones: Minimal Phone 2 Combines Android with a Physical Qwerty…”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QYWQzLTczOGV1N2M0SlhMWXUxcFR2RDhaVVBpYVZuLVFQOVpTd3UwN2k1RTIyX2JUV20zNnE1Y1pFUm1MQ1V2MGhRcHlQc1hoTEpRcUN6ZUlldnFfdGdlRXBsVXh0SXY1OWl3STEtc1pRcTNzTVRpbUlqMUtKQUXSAYQBQVVfeXFMTnNxZnVnbkhtUllzWU5oeEZQbUFsWklxdEpkNjlCQ0JWeFJEc01HeERYcGl2YkdHbU1zQ2tzOG9JSndfOUdkczl0czhxQ1lnY0t4QmQwVUMyamNMeXdFT2tIVkk5OE8teDM4M3lGU3JUTGxmNldCUjlaeDVtdkFyNlhMRVpF?oc=5",
+      "source": "CNBC",
+      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple &nbsp;&nbsp; CNBC",
+      "summaryZh": "本条资讯关注“Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "List of phones made in African countries - Vanguard News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0tEVW5zdjFmRUVmRGRoaVV3RmFWRzMxdHVYclRCV1FlM0lta0JpR1lfZERVQTZyWldabnZDZm5jR2NUZ1kySHN0eFQ0dHdYMVdjcWJEbDZPcno2Mmgzbmpkc1IxWEpkMmRPbVdtUDU2QklnRktPUnVCeE5UVjJfWGlub9IBiAFBVV95cUxNZ3p6WldMNTdNVlhXaUtQa1B3RC1aZ1d0ZTJnUm83d1FPMHJQN2NKdkhmdHlvbmw2ZElQSHN1b3liMFR1YWo5aEtlU3lieUR2OTBfblpqWUVuWktnMDZDVF85Q0NURi1feEdLbzlsMnNPMjVzam4ySjlsc0FDMmhMZDNnUkRPd3lU?oc=5",
+      "source": "Vanguard News",
+      "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "List of phones made in African countries &nbsp;&nbsp; Vanguard News",
+      "summaryZh": "本条资讯关注“List of phones made in African countries”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Surveillance State. NSW Police to seize mobile phone data without a warrant - Michael West Media",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2dMbWVWOE95bE1GOF9wUWdUTllyV1ZuU2JEOUZyRGJ0eUxMNUtwZkpEZnl0bVpMMkpKUHlkYm1pSGVKTW9PVlpWTmlCUm5LLTJGdUZDZzhCZWN0WnExN0FUUm9MWXM0Z2VlTUdsd1YxWDBDaG9fcGNzTE9yQmZidnJvbUY4b2VGa3JUME5iLURZMWtXdmRySmZScDBrbExFVDVCU0xXemg?oc=5",
+      "source": "Michael West Media",
+      "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Surveillance State. NSW Police to seize mobile phone data without a warrant &nbsp;&nbsp; Michael West Media",
+      "summaryZh": "本条资讯关注“Surveillance State. NSW Police to seize mobile phone data without a warrant”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "The Top 13 Logistics Companies in Singapore You Should Consider in 2026 - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aMkd3U0ptWm9pWC04TGNTRjE4bF9iRXFQM0dyay1BT2d5MTdxdnZmeG1tWlhKVXEzQlRacVJva0w0X0h2MHZpU3NEcE1oSU5hblYxcU0wTkVvcXM4SWFCNEh4UXVnVXFtU3RHYjF3NA?oc=5",
       "source": "ClickPost",
@@ -469,12 +586,21 @@
       "summaryZh": "本条资讯关注“How long should you keep your phone for? I did the math – it’s likely not what you think”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "T-Mobile down: Why SOS mode shows up on your phone - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HVjRObHR4X2pIZWZXTG9GMU1ESS1jaGxfRmVVZzZxV3RVUDdSVzBwcXYybWVyNlh4NFdzS3A0UUhqaVNacU1nc0dNeWx2V24zalZpczloUjJyT3dPT0M5SG5PZUdEWDlGX2t4WQ?oc=5",
-      "source": "mashable.com",
-      "published": "Mon, 27 Jul 2026 20:58:18 GMT",
+      "title": "NSW Police to Be Given Powers to Access and Download Phone Content on the Beat - Sydney Criminal Lawyers",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkhkaU9WZ2ZNZlZqZTVoUWc1OTFsV0w4bWlub0d4UElYNENXQmVJLXhjV1ZBNW9UbHh3WXdmMDRKTHN5SlVyZmVKNXJKRXhHVTFLQnNnM1hiTUxuSmtNNzdZQ1lnVjFQYXBoZzVpOEhqMHZIU3NqdnBVTEdMenlqLXRoV0plVFhkbUFVRDFsN3gwcXc4b016TFVZeFJ3LXlhRUhnYjhJNl9iRjdDV3pvQWYwMVdlYTV6bDdOZC16MGdXVnM?oc=5",
+      "source": "Sydney Criminal Lawyers",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "T-Mobile down: Why SOS mode shows up on your phone &nbsp;&nbsp; mashable.com",
+      "summary": "NSW Police to Be Given Powers to Access and Download Phone Content on the Beat &nbsp;&nbsp; Sydney Criminal Lawyers",
+      "summaryZh": "本条资讯关注“NSW Police to Be Given Powers to Access and Download Phone Content on the Beat”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "T-Mobile down: Why SOS mode shows up on your phone - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HVjRObHR4X2pIZWZXTG9GMU1ESS1jaGxfRmVVZzZxV3RVUDdSVzBwcXYybWVyNlh4NFdzS3A0UUhqaVNacU1nc0dNeWx2V24zalZpczloUjJyT3dPT0M5SG5PZUdEWDlGX2t4WQ?oc=5",
+      "source": "Mashable",
+      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "T-Mobile down: Why SOS mode shows up on your phone &nbsp;&nbsp; Mashable",
       "summaryZh": "本条资讯关注“T-Mobile down: Why SOS mode shows up on your phone”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
@@ -485,6 +611,15 @@
       "category": "手机与消费电子",
       "summary": "Fund managers want Taiwan to lift mobile phone ban &nbsp;&nbsp; Taipei Times",
       "summaryZh": "本条资讯关注“Fund managers want Taiwan to lift mobile phone ban”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Uttar Pradesh makes 65% of India's mobile phones, attracts over ₹60,000 crore in electronics, semiconductor investments - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajN1OF9kQ0NzUXY5UFRGRFNMRGlRWXdVRm9IUmh5R3pXcmp5T09MQVpZaW9XVHg1ckRnVENtb1d4NnN5ZlBLbnZqYWJRTHVJMUlqQzZlREpYdDdpdFR2RTRicGVFQUNZWlRNLW1EWjRaRGRpOE1yRGhjVTVEcXN0SV9nVzFKM3Byb2lTYUVRd0pfX1EwQ2lIa0tiWjBMMUNfbXVxVGtGVDUwc0FwTjU4VFktd21pLVZtcl95VnFwV0F6eERrY3BfQkRfcEg1SEVuTzJWQXNRaHZJMXdkdmVmazROdTJSUFVHSnR6N1hGUDlPUdIB_wFBVV95cUxNSjk5WXBrREpDZFBXNWwtUjl6VDdYYXNvdTgzcDJyLTlxeGRtNTdVb1ZFR01QekE4V283ZFNYM0p1aGRCSFNXNXEzem1qaC1UMHBqeGNGU3VrclVOc25TeEFFbU5zN1BHV0JBY3JTZklyWE9hMHdhRjRYXzVWQ2RYRUVGTTJra0VROE0tRjRHUzlDZmZXRWMzYVlGXzM5WnBZLWlJeGY3TlRETFdyYkxxQnpNeUNJajNzMzFCS0x5WEZGVFNWT0FtZU9Zak9BSHVyZFBvVkgxNE5sMDlsR1NrSnV4SGMyS3M4a1pQTFdyckVvVXU3Y1NrVnhLRnZvVkU?oc=5",
+      "source": "Fortune India",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Uttar Pradesh makes 65% of India's mobile phones, attracts over ₹60,000 crore in electronics, semiconductor investments &nbsp;&nbsp; Fortune India",
+      "summaryZh": "本条资讯关注“Uttar Pradesh makes 65% of India's mobile phones, attracts over ₹60,000 crore in electronics, semiconductor investments”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Kenya cracks down on grey-market phone imports - Africa Business Communities",
@@ -550,6 +685,15 @@
       "summaryZh": "本条资讯关注“EXCLUSIVE: Samsung cuts US jobs, offers relocations ahead of HQ move”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Premiumisation to lift mobile phone output, exports in value terms: IT Secy - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQnliTElwaV95WmM3U0VSVTF6bWFESFNFMjBUb0hyYUZLWXdWVVhGSjdiUmNJV2JvS0FHcEJFRWxPVTl0X3dGLTR5ZXhPRDhqMlZvVWFEcjRmdVgwaDUxeE9Ed1pVdFg4YlNPenRMdVVVRGNZbkpmZWZBRWV2Njg2M092MWZvcEFWVi15T1RHRzdxWDVkN3VKM09tbDJudE1jcGdyVzdacDhTRThsMDFqMlhabmVXZmd3eDdnM0wyMnFITEtvcXNWVzBfUU01Wk1XUWdpN0lhSWhRLURDbWZCM01n0gHnAUFVX3lxTE4zYUotbmxQNk8xX0toVjZLSkVsaFZxMlJVUkMzNDM3V29lZHctUHBvSVZ4bjFqSFFpTm5ybGx3bjFKaEVrM2FKQXlNcUQ2a2Y3N0MtdWRBMnJsX2djb0NmeHNLdHdEYVhyUlkwbS1BOWJyMWI3dDc0ODJKcXZ0Y0tvR0lEZ0hISlZyVm9hSFFiZ1hUOHdWZmRWTzFzcTZkUnNZRDQ1MWo1Y2l0N2dlUW53SEI2Vjc5YThnaDI1WUFZLWJjMUhHczNfR1ZZeGdsTTJQVXBIWmxxbDlXcGttTnpkODlnbGpObw?oc=5",
+      "source": "Business Standard",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Premiumisation to lift mobile phone output, exports in value terms: IT Secy &nbsp;&nbsp; Business Standard",
+      "summaryZh": "本条资讯关注“Premiumisation to lift mobile phone output, exports in value terms: IT Secy”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "Samsung relocates consumer electronics HQ, trims US jobs amid mobile business woes - Firstpost",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmZjbVJSMzBma1NrLXZwekI1UF9wb0I5QWx3M2c3Tm91Nkp0OVh4dmowdVU2R2VDQTNkSlQ1dTZkVTZHekYzWmhsX3dmX1J1QWlaNWpBUnBQeGI2RjZTcTc0RFlxNkNsemx4RVpobmVvWEhtaGhya0dwTEZwbTlSWjk4ZDBFOEdFb2gzQXVWalAxd2JXbHFLeUJ5RFRqQ3ZVS0FFV0YwTUxHQlppSWZLYk5hb2dZbEtjMXdUWHJ1N1hQakF40gHKAUFVX3lxTFBDcHhCS1pOWURIeTVNdkUyQ2ItTnhCZnQ1R2RpSHptNWtEUm5oYjZIVzU5d0VCUkd3RnlhcXBrczdpN3BodHhCRDI1TXRNb05lSGFldFhDQi16d1haelRWY08zMzdLTUFSR2E5V25MaTMxdkJ0SmdwMTVEaExFYUJQMVhrY09TSUJVUmVPY2cxd21QNG5NV3VCeEhsUVI0R21GYTdXUVY4ZjRxdE0wbDZMaWV1YkxZUC1PNWZCVldYbFVXc2FTU2VaZGc?oc=5",
       "source": "Firstpost",
@@ -557,6 +701,15 @@
       "category": "手机与消费电子",
       "summary": "Samsung relocates consumer electronics HQ, trims US jobs amid mobile business woes &nbsp;&nbsp; Firstpost",
       "summaryZh": "本条资讯关注“Samsung relocates consumer electronics HQ, trims US jobs amid mobile business woes”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Fact Box: Mobile Phone Manufacturing Scheme - GK Today",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96UG15R3FVbjFNdm00aXd1ZG96ZllSU3BrV0Y1YUhMYVBzdjdOUllhQzVEWmRqVVRwOFUzWEl3R0ZsclJwcFdEUzVKREM3M0ZOX18xaGNkZ0VYM3hYWWVMMVJsWGNjQzZBRjQtc05KOTlfYnZI?oc=5",
+      "source": "GK Today",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Fact Box: Mobile Phone Manufacturing Scheme &nbsp;&nbsp; GK Today",
+      "summaryZh": "本条资讯关注“Fact Box: Mobile Phone Manufacturing Scheme”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "AI-driven memory crunch jolts India’s smartphone market - TechCrunch",
@@ -568,6 +721,15 @@
       "summaryZh": "本条资讯关注“AI-driven memory crunch jolts India’s smartphone market”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "Mobile Phone Manufacturing Scheme: India’s Push for Homegrown Smartphone Brands - Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRlJndXRaMUljNG5mNjlLY2Utc0NmSTlDVmdnQ2pXbTNLeWtzUGZSblRhRC1Dd0RDbUt4ZUpvUU90cHBETFZPbFNGQi1UTEU1QWhDSnFhNFlnb00yVWdHTDNheHg5eTZGT3dXdV82SFctLUxJVFFybjE4S1k4elVuTWJmS0pLQ3NuMEMzRmVfWDhHazI0MFRmLW5fQWRBVHBUeDRZVzZhN1RBOHVaR1hzU2x2ZThtODFkbG5XYjVn?oc=5",
+      "source": "Vajiram & Ravi",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Mobile Phone Manufacturing Scheme: India’s Push for Homegrown Smartphone Brands &nbsp;&nbsp; Vajiram & Ravi",
+      "summaryZh": "本条资讯关注“Mobile Phone Manufacturing Scheme: India’s Push for Homegrown Smartphone Brands”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "No evidence mobile phones cause brain cancer – new study - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2FUMGRHNktZZXZ1ZEl0LW91UkVCbFdLY2swSmV0aTVpOXZNY1JzeURrdXNCX3BLYkZWVmhPTzJvTjBwU1lBOU9xem1VLXVhcXNsR0ZnTVZmNTIzYWpjcFh5MjAyME1ZMU01Z1lqdk85STE3Nl85QmtOWVk1UmhjSjE2ejBvOFdhN3ZVTE9JWE83Z0U?oc=5",
       "source": "The Conversation",
@@ -577,175 +739,13 @@
       "summaryZh": "本条资讯关注“No evidence mobile phones cause brain cancer – new study”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Inside Nokia’s Race to Catch the iPhone and Android Wave - IEEE Spectrum",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdDA1VHE3TmZmZVlYNUF5MkF6elpaZUhqYXhrR1ptaWI1Z3RQS2JGRnZMUnRsclFnel81TEpNZTZkb294ZXJrQnNVeWVkYzIxeUVKZk5MNVBZQQ?oc=5",
-      "source": "IEEE Spectrum",
-      "published": "Mon, 13 Jul 2026 13:26:32 GMT",
+      "title": "Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWmNBM2RDWDBZNU9tbjJYN1NHY1dMWVA2Tk53Z0F2V29pSkRQN2RBYndoczVlY3dKd2FPN2Jrem5rVzkxdWxkMlZSVXlKaDBCelROUnlGOFQyMVNUbl9UOTJjWXoyR1R0UE1LTnY5ZktHYnhzTmZnQ3Jsb1NiYXhJYzluMVVpOFNtME1FRk9DMmdVWFM3dkNIQzlud2MxekdZWUQ2SkJFdFpJVnR4Um14NWZ0SUtGdEZ2anYxVHNWZG9YUW9TVlQ0YjdlYWpZTVpqTmdQUXk3TFplSU9mNFk1NW5EZXRjako3U2NlUXFndWlkOGdYSGdQcGJn0gH_AUFVX3lxTE96dExEVl91WkhQbUVESWRJbVZzRkhVZEtsWTZVdV9hcVE0T0FZWno1aWthajdnUmEzX0NndTFGR0c0TjF2Tl9VOE9tQUhmQ1dCcVgteGhFb0RLUTN5OHBTdkFnM003RFJSVnpnQk12QThFUVNPU3ZpOXFiakhKX1BPSUptMk9EV2hRclpFcXpHQ3hQQ3NUSTBtbmIwN2s4NWg4NDZ3OXdlQk1LZ0FSdlhkYzB4TjBqNWZWbXhWMW1Bbi04ZFdnd0prX0R4TzhLb19yb1RBX2pvbkNvOUpoeEhIWVp2SVoxNmYyN1FSLXJPdFh6eF9HQ1NUOEM1eVNzZw?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "category": "手机与消费电子",
-      "summary": "Inside Nokia’s Race to Catch the iPhone and Android Wave &nbsp;&nbsp; IEEE Spectrum",
-      "summaryZh": "本条资讯关注“Inside Nokia’s Race to Catch the iPhone and Android Wave”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Top 10 Best USB C Car Charger That Will Shock You - coast2coastcarwash.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZS01aNDROSm9jNDIyZzVsRE5QaFZtM2NSVjR4aWRrSnpqek1NYTFHQlJyZ180UTFBYUkxUmRjeHQxMmhSamlzVWFpTU0yamU3Rnc2Z1RUbkpNZ2VuWVJ4bTN1a3g?oc=5",
-      "source": "coast2coastcarwash.com",
-      "published": "Fri, 10 Jul 2026 07:38:09 GMT",
-      "category": "法规与合规",
-      "summary": "Top 10 Best USB C Car Charger That Will Shock You &nbsp;&nbsp; coast2coastcarwash.com",
-      "summaryZh": "本条资讯关注“Top 10 Best USB C Car Charger That Will Shock You”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
-    },
-    {
-      "title": "Why Foldables? Understanding the Devices Redefining the Smartphone Experience - Samsung Global Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3NiNmc3TUxlbE5RNm1iWXJzUnAxWWpicVdEbVl5Y291QlFfSC1TNnpRWHZsNDV5QnZpU2VfSkpURlBfeWo5YkJyRE5FT3h4S3VYYmE4cnBHQ09WTE1BRlFmQWJNZTlSTlF6UWwzWVRhVGNEY1JNal9icUdJaVdzX2JRYXhQTUw3VU5ZQ1lHV0IzOUZxV2FLdlZrQ2g?oc=5",
-      "source": "Samsung Global Newsroom",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Why Foldables? Understanding the Devices Redefining the Smartphone Experience &nbsp;&nbsp; Samsung Global Newsroom",
-      "summaryZh": "本条资讯关注“Why Foldables? Understanding the Devices Redefining the Smartphone Experience”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Landline phone orders spiked 277% this summer. Blame your smartphone bill - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlhBRTZxRHlXdjBsT0llSFI2cFc3eFhaTHNPMnBHYXFJWkVIMTMtMGdZcHFsN0tVTGZsV0YwSGgyM3UzVzRGUUV0eWlTWmJPa1h5UFAtUGxiTlZ4X0llMmtBbU8zUUVnUVdUQS1rcVE3MDA0cUVlTUI4cG10alJRdHBIZlJmM1l2Z2U4cU9ZcjZ5cWZ0YnA0cA?oc=5",
-      "source": "Fortune",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Landline phone orders spiked 277% this summer. Blame your smartphone bill &nbsp;&nbsp; Fortune",
-      "summaryZh": "本条资讯关注“Landline phone orders spiked 277% this summer. Blame your smartphone bill”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "The 10 best dumbphones to cut screen time - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXb2djWUZzV0dWczJIUVp4SVlDdjlzM25lQk80OW5vaHMtYTZNc0RzM0dna3laMTZqSXRLbGVBWVg0WWdoQzh3WUlFemNyWFRPcTM0YmRXalloZGdnb0JJd25HUDc3T1NTTkxqTncxNWgyWmx4THRWSHVtTENMdjQ?oc=5",
-      "source": "The Telegraph",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "The 10 best dumbphones to cut screen time &nbsp;&nbsp; The Telegraph",
-      "summaryZh": "本条资讯关注“The 10 best dumbphones to cut screen time”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "The Best Phones You Can’t Officially Buy in the US - wired.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p3bVZtU0lYbkdwNWZ1aGp0TU9ncUF0ZlBHZG0waEtCMXZwem1yUUU5c3h0UlRuU1YzQXVzU2cxU0FnN3ByNkJNN3czMFlIb0d0YllmS2IwcmhWQ2pURURSSjNqV3UtbkZmb3NFYjlkcWxUdFc2YmpMT2hIdHZlcUlR?oc=5",
-      "source": "wired.com",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "The Best Phones You Can’t Officially Buy in the US &nbsp;&nbsp; wired.com",
-      "summaryZh": "本条资讯关注“The Best Phones You Can’t Officially Buy in the US”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Educational Child-Friendly Mobile Phones: The Lenovo AI Student Phone Doesn't Support… - Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42RExSekY4RmpOdDF2TG00NEpjVjJZLUs2NWZsc3RLcmVfMHFHcEIwTGVvOUdSUDlTUmxLNzBmMktpcW9yaU9MY0JfUE5FOXFESWRIVWM2VmxkS0NYNW9jZEhrdXFkMWFtcmc?oc=5",
-      "source": "Trend Hunter",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Educational Child-Friendly Mobile Phones: The Lenovo AI Student Phone Doesn't Support… &nbsp;&nbsp; Trend Hunter",
-      "summaryZh": "本条资讯关注“Educational Child-Friendly Mobile Phones: The Lenovo AI Student Phone Doesn't Support…”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "The football effect: powering supply chains across Latin America - Maersk",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXFmTmlaVGc2R2VfRGRvdXJSRDJtTnYtRnlZYktJbHNnb0ZCMGd3ZWZjX0kyMERMeXAxRHExYTVUSnZ3TmVzOFpTem5JRkRJMVR0OHhoTnU5ZHlmcXdDdmRqMnRRMFl0bW5FeGpmMk9IS0c0ajhwdVI0SVppVlFvTkFzUmUwLWxHTWtTaWxLYm9OTkIyRERKLQ?oc=5",
-      "source": "Maersk",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "The football effect: powering supply chains across Latin America &nbsp;&nbsp; Maersk",
-      "summaryZh": "本条资讯关注“The football effect: powering supply chains across Latin America”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "Draft for Comments || GUIDELINES ON THE APPLICATION FOR VARIATION OF THE ISSUED PRODUCT AUTHORIZATIONS FOR MEDICAL AND HEALTH-RELATED DEVICES - fda.gov.ph",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ0x1U010MmN6SHlNb25KZFFxUnBxTWpneUJpeWFVd1BHX3FUQW93ZFZjWkFNLWRSRWx6X0tRSTNnaHpRS1B3NTcxeVp3S0xLZzN0Vi1uLXFRUl9xZDdKYng3WGNFUjIxbFFEUDR5QkE5eW01MVZWWUtlLUNsVnp3ZVFuUXRMNWVkLVZ0eEE4N0hCZjVsSGM5UUhSUWlRS1RuTDE4TjJJUnVYelpoTF9MeUMwcTRVdWRuMmZDQV9JcTY1ckVkWlRzUDB4X2NLS1B6RHk2bERydk53SHFtQW11Q3AzZTdQNmlVcjkwM240NGlqNGFI?oc=5",
-      "source": "fda.gov.ph",
-      "published": "Tue, 30 Jun 2026 08:57:43 GMT",
-      "category": "市场与渠道",
-      "summary": "Draft for Comments || GUIDELINES ON THE APPLICATION FOR VARIATION OF THE ISSUED PRODUCT AUTHORIZATIONS FOR MEDICAL AND HEALTH-RELATED DEVICES &nbsp;&nbsp; fda.gov.ph",
-      "summaryZh": "本条资讯关注“Draft for Comments || GUIDELINES ON THE APPLICATION FOR VARIATION OF THE ISSUED PRODUCT AUTHORIZATIONS FOR MEDICAL AND HEALTH-RELATED DEVICES”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful - pcmag.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEpGSmRaUnBuUjRhWlRCWmhucG1XZlNvejJobG52aXVaWXgtYWh1Z18ybFJTVnBlY2NkZjBLbWQzRlBITVAwMHpJOVBLaDFfTWFpSlo0eEd6QUc1NzBUcHNXY3UxNGVRYmV0SFQ5T0hTN3BVRF9pQXV3Qm1XOVJSTS1DblBZQjEtU09wdndVWlNUamNhMDlUNnptRjNubUk4eWI1UGdyd3p2Zw?oc=5",
-      "source": "pcmag.com",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful &nbsp;&nbsp; pcmag.com",
-      "summaryZh": "本条资讯关注“Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Nothing Phone (4b) Could Be the Budget Smartphone Shake-Up Everyone Needs - stupidDOPE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHlRdXJCYzhKYnBrbkR4UE5RZUpmLTdpcEZMUzZXU1BkZVpfYU5SbmJITTNYLVh6bnJleTc1TU1mSXVfcWFMdGMzazFGLWtVOEJmZGtLbzc3aUFkVE9CbTBCVmF1eDZiTlpsU3B1cFFEa1ItaVdEdS1veF84S2ZWa3h6cVN5SUJUMmJweXh4OHQ4RWdKM1JxYXJJazlkaVRHS2ZQaGZB?oc=5",
-      "source": "stupidDOPE",
-      "published": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Nothing Phone (4b) Could Be the Budget Smartphone Shake-Up Everyone Needs &nbsp;&nbsp; stupidDOPE",
-      "summaryZh": "本条资讯关注“Nothing Phone (4b) Could Be the Budget Smartphone Shake-Up Everyone Needs”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2d6bGtzQWpsRnc4VTdvcURwTEpHamVfYkhQRjhnd2pFb2FMR0VSSW9Wbm5EaGU3YmxPMVNTZl9ZTFZnajZNUm51cDNjVE13US12RG1tSWVtazludkM3bE9tSWRRZE5vY1F6SGt5QjNIREhEVWMwb1RKdlkxbE1aelRiOHprZDZ4UjJ2SE4xQWR1QdIBlwFBVV95cUxOTmZ2ZE1fLUdYLWttTWhlRUlrZkktN2NvVGVCSmZFaVRUUURyUjVESjUycm5KVloyRGVNdkNKM1h4VGRIb1hHcGVGWFRsdHJhbk1MQWlOZTNFNmtoZXJNSy1TVjctOXgyRElNa0VZWVJWSWRUUGgwOEo5cWY2RmZXUDR5aDVTMjctYWx1RS1XUUpxTWVqd2xn?oc=5",
-      "source": "CNBC",
-      "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones &nbsp;&nbsp; CNBC",
-      "summaryZh": "本条资讯关注“Rise in memory chip costs puts pressure on retailers of laptops and smartphones”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "In Consumer Electronics, we sold over 2,500 phones every hour, along with more than 4,000 televisions, 8,000 large appliances, and 1,600 laptops every single day. JioMart Digital is now India’s largest mobile distributor with 1.2 lakh active retail partners: Isha - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzBIVGIyS0Q3LTF2a1dfd3prOXR5Y0xpV2t2MEJ2SmJRVE04MHAzdVM5Zks1aEEwYmxxVjlFQXNkSzZTS1k2T3Bkby0zdWJsUExrc01JM0hMUS1jQmFyaVF5ZUswbVFLU1dqSHJMeVFnWldoeFVzemplalF0UHBFVVU0X1N5alp1eEpobzlUZk5Pc0dwc0RyNEE5Y0lNNkpFVjNhd0Fpc2YxLVN6bTdWWDVqNzN1OG0tOTBhVTRzWGVBYXFBR3Z3MHNrTjBBeUdPVzIwMVVTV2NqQVdmT3daazV0T2w2ekRVREZBcg?oc=5",
-      "source": "facebook.com",
-      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "In Consumer Electronics, we sold over 2,500 phones every hour, along with more than 4,000 televisions, 8,000 large appliances, and 1,600 laptops every single day. JioMart Digital is now India’s largest mobile distributor with 1.2 lakh active retail partners: I",
-      "summaryZh": "本条资讯关注“In Consumer Electronics, we sold over 2,500 phones every hour, along with more than 4,000 televisions, 8,000 large appliances, and 1,600 laptops every single day. JioMart Digital is now India’s largest mobile distributor with 1.2 lakh active retail partners: Isha”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Taking blood tests with your mobile phone? Thanks to Marquette researchers, that future is nearer than you think. - Marquette Today",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSGtUYXZUTTAteTF1X0tiMmE4a3ZrVEI4NjJ4UXZiOTU1TlVINTBzNlg3dEF4U2xQQjdJa2w4MzdOeDhLTTB0WHlDZTBzRWwyZ0haSzRwN1E1OWtGQ1dkclRzS2R2SzZWckYyd3JLS1VfZThkbi1zNWZsTHZuOW03SjFGbnYwckI4UnM0amFhXzBmX2l0RTIzbTNiVkF4Uk53U3lVX3huNFN5NXhmSFlKNUVyR3BGMWx6T3pfSlhVU2ptTXZPWHdBQlJJall0bmliUHZ4d1I1bDhaeGphNWc?oc=5",
-      "source": "Marquette Today",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Taking blood tests with your mobile phone? Thanks to Marquette researchers, that future is nearer than you think. &nbsp;&nbsp; Marquette Today",
-      "summaryZh": "本条资讯关注“Taking blood tests with your mobile phone? Thanks to Marquette researchers, that future is nearer than you think.”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Taliban order ban on smartphones as officials shown destroying devices - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3JfZkhhYVp6aEw0Z01LWGJOVEVkUjlQaWVFVS10SlRnLWhQNm9BNVpZcnpqM0N2OWNNSzVYOUROWE50X3VreTNENmExdk5DempINjNkM0tiTENXZlhWWG9sempaV01saldnQ3puVTM4Z0l0TDg4UTQ1ZHphWjg3bEJNSTZkY0dIdzJZOE1kbkx3eU50RmtZem9vTV84M01ITjdGTzVMWlFEM2prT1ctR2k4Yk9tenRX?oc=5",
-      "source": "The Guardian",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Taliban order ban on smartphones as officials shown destroying devices &nbsp;&nbsp; The Guardian",
-      "summaryZh": "本条资讯关注“Taliban order ban on smartphones as officials shown destroying devices”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Reduced Connectivity Mobile Phones: The Commodore Callback 8020 Revives the Flip Phone - Trend Hunter",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LLUZFVmFKZkNDUW1Zc1VjSUdfQV9GSFR4WUZkWVlZLWhpZm1ac2U5NnFJRDNObnlmRmQ3YzBKNHhUU1ZVc1RLX05ZOHhIa2NaME5SUXlla3Q4NEd6Q2dVMENkajZCWjVWanc?oc=5",
-      "source": "Trend Hunter",
-      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Reduced Connectivity Mobile Phones: The Commodore Callback 8020 Revives the Flip Phone &nbsp;&nbsp; Trend Hunter",
-      "summaryZh": "本条资讯关注“Reduced Connectivity Mobile Phones: The Commodore Callback 8020 Revives the Flip Phone”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "A low-carbon computing platform from your retired phones - Google Research",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbERKNnplUFJIa2NjSmtsWkJPTmYzSGR2ZDdCbDY2S2hYUjhCQXpHTk96YVdzdXE0cTRWTlBmQ1loWHhCRUJCMnROS3UySWx1Ykg0ajJ1VzBYTVVhV0hUb1FDaWdsSGpNbFRfVWxDM211bEYwaHYzRXpuQ3N3Qm9iaWwtMzcxd0w3dmNwZl9WQQ?oc=5",
-      "source": "Google Research",
-      "published": "Fri, 12 Jun 2026 17:26:25 GMT",
-      "category": "手机与消费电子",
-      "summary": "A low-carbon computing platform from your retired phones &nbsp;&nbsp; Google Research",
-      "summaryZh": "本条资讯关注“A low-carbon computing platform from your retired phones”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "The Trump Phone is mostly a rebranded HTC phone - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Kbjg5V1dYTU51dzk0UHZhZjdYUFpXRW83cDlTU1AyZzd2TzFiWkN2djA0bGR5Q2FJWmRsMjVfcUg1UWd3QktCT1hZR3ZGQXlHdkJHSGNUSlpHYy02UlRfTg?oc=5",
-      "source": "mashable.com",
-      "published": "Thu, 11 Jun 2026 13:07:02 GMT",
-      "category": "手机与消费电子",
-      "summary": "The Trump Phone is mostly a rebranded HTC phone &nbsp;&nbsp; mashable.com",
-      "summaryZh": "本条资讯关注“The Trump Phone is mostly a rebranded HTC phone”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Samsung Electronics Recognized for Excellence by the ACSI® and Consumer Reports - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGNxQlhJTHRjSWV0c2xpQVhQbHpYX1hCaThoekY0dDNwVHZGZU9DUG15aDFhRlJWWVROdFJoWnVZT1BFbGlPNTByZTQ0OGpveTFQUUFnRzBlSGFZcFNVLU0xUnozd0l2RXQtQl9oNUpPN1FJRTZ6cEdoNW9RV0U5Y04wYkFWNnpmZ2R4TTg4ZFg0c2dsRmhjOGpHNkpYWkFrQjVsa3pybmVHNlJVZnBTdHE5d0RzOVMtN2Zwb3ZNTnJoNlFjVXdPcEdWTXEwZFQz?oc=5",
-      "source": "Business Wire",
-      "published": "Mon, 08 Jun 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Samsung Electronics Recognized for Excellence by the ACSI® and Consumer Reports &nbsp;&nbsp; Business Wire",
-      "summaryZh": "本条资讯关注“Samsung Electronics Recognized for Excellence by the ACSI® and Consumer Reports”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "summary": "Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
+      "summaryZh": "本条资讯关注“Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     }
   ]
 }
