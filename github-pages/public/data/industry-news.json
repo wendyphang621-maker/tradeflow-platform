@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T06:02:40.474Z",
+  "updatedAt": "2026-10-22T06:07:36.324Z",
   "summaries": [
     {
       "category": "手机与消费电子",
-      "count": 34,
-      "overview": "今日收录 34 条，重点包括：New Zealand mobile phone recycling scheme collects more than one million devices；Man arrested for allegedly using electronic device to illegally obtain bank card information。",
+      "count": 45,
+      "overview": "今日收录 45 条，重点包括：New Zealand mobile phone recycling scheme collects more than one million devices；Cell phones in schools。",
       "focus": "关注新品规格、芯片与电池技术，以及主要品牌的价格和发布节奏。"
     },
     {
       "category": "市场与渠道",
-      "count": 27,
-      "overview": "今日收录 27 条，重点包括：NCC, Customs move against non-compliant mobile devices；Price surge awaits phone market as NCC enforces device policy。",
+      "count": 16,
+      "overview": "今日收录 16 条，重点包括：NCC issues fresh warning to phone dealers, importers over new compliance rules；NCC issues fresh warning as unapproved phones risk network block in Nigeria。",
       "focus": "关注重点国家需求、分销商变化、零售价格和渠道库存。"
     },
     {
@@ -28,13 +28,49 @@
   ],
   "items": [
     {
+      "title": "NCC issues fresh warning to phone dealers, importers over new compliance rules - Legit News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXZjU2tEVkRlN2ZZdVF0azQ3ZDA2VFVPd2dKd3l6WG41cmdMRGtGQlRNdjBnZ3JzODZCQjFEMm5rZW00di1ibzhTUXktTUM2ZVF3YURXVnpLQVoyTXdtSFVDQ3FVbEtkM3ZGRFpIYUVTOVVBclBSRlhjLWZvRGk5bjdiOFRFVW4tZ0VLc2lUN0dPR1pGZXNjZ1U5LWlHZ3JXakR0VDlwMklXTkxyb29pcXRQZGowUEFPb3hzMmtORXVHNFc2WXA2TTNQdF9QejJjUXBV?oc=5",
+      "source": "Legit News",
+      "published": "Wed, 21 Oct 2026 10:49:28 GMT",
+      "category": "市场与渠道",
+      "summary": "NCC issues fresh warning to phone dealers, importers over new compliance rules &nbsp;&nbsp; Legit News",
+      "summaryZh": "本条资讯关注“NCC issues fresh warning to phone dealers, importers over new compliance rules”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+    },
+    {
+      "title": "NCC issues fresh warning as unapproved phones risk network block in Nigeria - National Accord Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHRGUW1vYUpxLVJUV2M0TmVra21BZVRBSE03Z2ZQMkdRN3JlM01WcXp5MnNSZWFabWtEcjF2d2xYbEhfSHA3MzNmcmg0Nl9fSlpNQnFZczk3NWlta0g5UUJpSkpzWnpJVURYOWdQOEVDVDlFdWVnLW5VaVFrOW1mRW9BdGJ2bERyVWtnR1ZBZnl2M1BUZ2E1TUV5ZWc1cU9KWUFvcGlQVWVDd203eFJVOFFR?oc=5",
+      "source": "National Accord Newspaper",
+      "published": "Wed, 21 Oct 2026 09:26:47 GMT",
+      "category": "市场与渠道",
+      "summary": "NCC issues fresh warning as unapproved phones risk network block in Nigeria &nbsp;&nbsp; National Accord Newspaper",
+      "summaryZh": "本条资讯关注“NCC issues fresh warning as unapproved phones risk network block in Nigeria”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+    },
+    {
+      "title": "NCC To Block Non-compliant SIM-enabled Devices From Telecom Networks - LEADERSHIP Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVFfVWZvOENQbEN3NkJ6YkZUX3AyM2NqVHJlVkpOeUFLUUdndkhyRFA2QVh4ZmtibTZxLV9GZ0R4dTUxOVZyaEsyUlZMMUhDUGxkQUQ5UWx5dFd6dHJrMnhGRTd4NlV0V3Jzajc4QUZUQU83Sng0Y0NZSXVrSzlwUTNjcEdHUWY0b2ttQXItQUI5RVBSSXc?oc=5",
+      "source": "LEADERSHIP Newspapers",
+      "published": "Wed, 21 Oct 2026 06:23:47 GMT",
+      "category": "市场与渠道",
+      "summary": "NCC To Block Non-compliant SIM-enabled Devices From Telecom Networks &nbsp;&nbsp; LEADERSHIP Newspapers",
+      "summaryZh": "本条资讯关注“NCC To Block Non-compliant SIM-enabled Devices From Telecom Networks”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+    },
+    {
       "title": "New Zealand mobile phone recycling scheme collects more than one million devices - Telecompaper",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkRjWjBEa3VieEJqcGR6OW01UnZGdXd5NkRzdXMtQXh0VWI5WUdEZ0Y5aFoxN3VGUV9fNDFhNklHRFBKRzVab0FQUVZIbHdvcWQ4RTdxQXMxZTlIRFFvU2pUa0lDTUVReE9oTVBoQm9Wby1GdEE3ZTdNYkFUWnFuRk9hQm40SmFibEpXNzUtNEw5RDhhd2NVcWxEdUpSQUl4eUsySmlXZFZTaGlSSEpRUlRMWjd6Y0FHSWtuMHhSXzk?oc=5",
       "source": "Telecompaper",
-      "published": "Wed, 21 Oct 2026 05:15:56 GMT",
+      "published": "Wed, 21 Oct 2026 05:19:13 GMT",
       "category": "手机与消费电子",
       "summary": "New Zealand mobile phone recycling scheme collects more than one million devices &nbsp;&nbsp; Telecompaper",
       "summaryZh": "本条资讯关注“New Zealand mobile phone recycling scheme collects more than one million devices”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Price surge awaits phone market as NCC enforces device policy - The Guardian Nigeria News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2MxQ00tV1VrYklIWkFRaGV1dWVpOWMxZEVwVnJsLTZCUWJnNkZmWHVKUHBiYWhFU0JkRUp0WEVoenJfU3VUZ3pnTi0xaUx4NVlhLW1KTEZfcUZHd2lnTTRHNndCN2Y1elI1Rlp5Z2xuQUVVQlRJR05ZVGV4Um1EMFo0UW9ZaUtZdGo0Q21pVXlZcFZVR2wxbENsd2JCMEU?oc=5",
+      "source": "The Guardian Nigeria News",
+      "published": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "category": "市场与渠道",
+      "summary": "Price surge awaits phone market as NCC enforces device policy &nbsp;&nbsp; The Guardian Nigeria News",
+      "summaryZh": "本条资讯关注“Price surge awaits phone market as NCC enforces device policy”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "NCC, Customs move against non-compliant mobile devices - Vanguard News",
@@ -44,24 +80,6 @@
       "category": "市场与渠道",
       "summary": "NCC, Customs move against non-compliant mobile devices &nbsp;&nbsp; Vanguard News",
       "summaryZh": "本条资讯关注“NCC, Customs move against non-compliant mobile devices”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Price surge awaits phone market as NCC enforces device policy - The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2MxQ00tV1VrYklIWkFRaGV1dWVpOWMxZEVwVnJsLTZCUWJnNkZmWHVKUHBiYWhFU0JkRUp0WEVoenJfU3VUZ3pnTi0xaUx4NVlhLW1KTEZfcUZHd2lnTTRHNndCN2Y1elI1Rlp5Z2xuQUVVQlRJR05ZVGV4Um1EMFo0UW9ZaUtZdGo0Q21pVXlZcFZVR2wxbENsd2JCMEU?oc=5",
-      "source": "The Guardian Nigeria News",
-      "published": "Wed, 21 Oct 2026 03:15:01 GMT",
-      "category": "市场与渠道",
-      "summary": "Price surge awaits phone market as NCC enforces device policy &nbsp;&nbsp; The Guardian Nigeria News",
-      "summaryZh": "本条资讯关注“Price surge awaits phone market as NCC enforces device policy”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "NCC Threatens Network Ban On Non-Compliant Mobile Devices - New National Star",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWhkT0d5aFZuWTFrbm40WDFlY2UzZk1nZ3hSSzBtS1NCdV9BQVAzY3hjaTdUOHlBRjI0T3VPdGZrVl9OSUIzTHNjVTl1aDE0THp6Wl9SZTNpX1NXbHFoTGJUdU9wX0VRU3RyNGkyUFpHUjV0d1FXSFFOazNmU3N3R1RHeS1XZjFXczZQWDJkRQ?oc=5",
-      "source": "New National Star",
-      "published": "Wed, 21 Oct 2026 00:13:11 GMT",
-      "category": "市场与渠道",
-      "summary": "NCC Threatens Network Ban On Non-Compliant Mobile Devices &nbsp;&nbsp; New National Star",
-      "summaryZh": "本条资讯关注“NCC Threatens Network Ban On Non-Compliant Mobile Devices”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "NCC urges manufacturers, dealers in SIM-enabled devices to comply with type approval requirements - ConsumerConnect",
@@ -127,15 +145,6 @@
       "summaryZh": "本条资讯关注“NCC Threatens Network Ban On Non-Compliant Mobile Devices”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "NCC Warns Phones Without Type Approval Will Be Blocked From Networks - Independent Newspaper Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXNkckppNXpja0lvMDNMRFFKdEc0VWc5YTRMMzVDT2dQcGpjN0VJRjFZSklkMXVPVTliRlpFOEJ5eE9zQThBYTBTTm9JTW1lZlZqTHVMMTFMWlRVeHlrd2ZSWnpmUDhPR3o4ajhYNEFkT09pMXMtaXYzYkQtbXVSSFUtYzVWMHNNNnN4VGhOZGwxbG9HODJn?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "published": "Tue, 20 Oct 2026 09:21:22 GMT",
-      "category": "市场与渠道",
-      "summary": "NCC Warns Phones Without Type Approval Will Be Blocked From Networks &nbsp;&nbsp; Independent Newspaper Nigeria",
-      "summaryZh": "本条资讯关注“NCC Warns Phones Without Type Approval Will Be Blocked From Networks”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
       "title": "NCC Reinforces Type Approval Compliance For SIM Enabled Devices - https://thefact.ng/",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVJWazB1V1ZOOGUxdzZBaU96ZkE0WDRySmdORHNhUFhDVGRMZk01VXpaNTR5SzBidDFvZi01czlwUXViMHg0V2VVOTBfNmp0TlRKV3VmSDFObk9pQjVsR2h1Zy13TGkzRksyRmZOSmlSQUdrZVpTZXQ0amxhMlppdGdpS244M0ttZUNz?oc=5",
       "source": "https://thefact.ng/",
@@ -143,15 +152,6 @@
       "category": "市场与渠道",
       "summary": "NCC Reinforces Type Approval Compliance For SIM Enabled Devices &nbsp;&nbsp; https://thefact.ng/",
       "summaryZh": "本条资讯关注“NCC Reinforces Type Approval Compliance For SIM Enabled Devices”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "NCC warns device dealers over non-compliance, threatens network restrictions - Daily Post Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWERhY0ZSRG5pYUwwcDZwVV9odktsc2sydERoM28zUEZDdmowMTMzU0w2TjJBUVhVY21RYzE1NmZQY2FmNzZTeUpxbmN5YXVxMFNwemZiYzdBX2h6QlFTSHllaVd3OEhybW1GTmNWTU1WUll5R2JJU1lEclhQbGljRjlkTnJmTkZFU3BFc09QYXgya3V5M2djNnVzenpHeGR5M0E3ZThRaDlqVHNs?oc=5",
-      "source": "Daily Post Nigeria",
-      "published": "Tue, 20 Oct 2026 06:24:23 GMT",
-      "category": "市场与渠道",
-      "summary": "NCC warns device dealers over non-compliance, threatens network restrictions &nbsp;&nbsp; Daily Post Nigeria",
-      "summaryZh": "本条资讯关注“NCC warns device dealers over non-compliance, threatens network restrictions”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "NCC Moves To Block Unapproved Phones From Nigerian Telecom Networks - Platform Times",
@@ -163,22 +163,13 @@
       "summaryZh": "本条资讯关注“NCC Moves To Block Unapproved Phones From Nigerian Telecom Networks”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "Man arrested for allegedly using electronic device to illegally obtain bank card information - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0p0eUx5RXdjUEtMczFSUUZPRVNGOUU4dG1OeVg3SzJOb0FsbS1vdmg1bkVKdER0djFmX3U5emw0bjJSYWh6OUxVOWdXeFRoaEJXUjdsNXNmWUg1Q1E3R05wd3Z5OFFTVXRvSG1uWkVlUVkzTjFYbnVNYVp1cGxOZkZNZzlKNzRBcFFsQ3BJcHpjbkpoTE9xWTRTN1hHeklYRmo0MWtUTGRjTW1wS1Bwc2FjMWZydHYtN0loaVRBaTFmTFRfaWR4Z3VJQQ?oc=5",
-      "source": "The Straits Times",
-      "published": "Mon, 19 Oct 2026 22:35:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Man arrested for allegedly using electronic device to illegally obtain bank card information &nbsp;&nbsp; The Straits Times",
-      "summaryZh": "本条资讯关注“Man arrested for allegedly using electronic device to illegally obtain bank card information”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "NCC's device crackdown: What consumers, POS operators and phone importers need to know - Businessamlive",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTBNSDBwQ1hHUFVEbnVjN1NhMHFER3lIWXhiRGVuaGVFSC1CN0x0YkFibjZCdHdfS3ByWnkxVWd5a3kxejdSbzlXTVd3Mk5qWG80ZHE2a2hULVdmYnhkQ1JZazl1Zm9EbmpBVDlBM3pMYkFZbEtMWVM2d0M3QTc4MmtZRWtfQUhTOERiR0l6eElTSTd1ZUpnWU9xTFJWZ3FGQlhsNmZCcWIzd1RoUzlsXw?oc=5",
-      "source": "Businessamlive",
-      "published": "Mon, 19 Oct 2026 04:43:51 GMT",
+      "title": "How Kim Jong Un’s state is taming trade outside North Korea’s general markets - 데일리NK",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzNpYnhTYXhqRFZ1Tl9HQzJ1OVFtTnNfU3RpX3EtTGw0YXcwM1Q2WTU4YWdJejB5MDY2emxEVXVxVUkySVUybnItZ01sMmdtM3RxM1RhdXFLdWxGMVdhZVRpTzBnNzBZTzdNaHBlRjExVzZ2Qm1UTE9vcHFSdHVoR0JvSjgwTmR0T29rOEtRcUFKV3lGOTdKRWREenRHejBsSFE?oc=5",
+      "source": "데일리NK",
+      "published": "Mon, 19 Oct 2026 18:16:45 GMT",
       "category": "市场与渠道",
-      "summary": "NCC's device crackdown: What consumers, POS operators and phone importers need to know &nbsp;&nbsp; Businessamlive",
-      "summaryZh": "本条资讯关注“NCC's device crackdown: What consumers, POS operators and phone importers need to know”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+      "summary": "How Kim Jong Un’s state is taming trade outside North Korea’s general markets &nbsp;&nbsp; 데일리NK",
+      "summaryZh": "本条资讯关注“How Kim Jong Un’s state is taming trade outside North Korea’s general markets”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "Cell phones in schools - Britannica",
@@ -190,19 +181,10 @@
       "summaryZh": "本条资讯关注“Cell phones in schools”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "NTC says draft rules won’t disrupt used phone market - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2VuMmtzMjBPQlZOSDlrZWE5Q2FKS1oxaDdqOC1mLUZSQ21xRnA1UVdfYjNnYkFKQWhwbUU1aHRzeDF5c2RvOEhBUUEyM0NlNGRZSGEzWGVSdWZqc1RPblpYRi1rM0czczBPdVJSbHpRcnM4Wmt6WUZDQjRNTENJU2VRNVZVQTFkX1lKUHdUTjBwQdIBlwFBVV95cUxOaVBicFdkNWlvNmdSbXgxT3ZvQ2tPV2RSUF9kQjlLUHpQYW9ZalMxT01rdGRXX1Jqb3RXZlFJUmpxQ2xjUWxlMVV0UlNrXzUwNnp4aWQ5MkpfSjVoN2lsN2VYMkRhRHlyT3gwajNmcWdpblhONmxEMFV6RDM1V3pueHRoQnl3YWgtcFlQMVBQRlhFalRfb1pB?oc=5",
-      "source": "Inquirer.net",
-      "published": "Tue, 13 Oct 2026 18:04:00 GMT",
-      "category": "市场与渠道",
-      "summary": "NTC says draft rules won’t disrupt used phone market &nbsp;&nbsp; Inquirer.net",
-      "summaryZh": "本条资讯关注“NTC says draft rules won’t disrupt used phone market”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
       "title": "Red flag for exporters: Hapag-Lloyd booking freeze puts PH electronics supply chains at risk - Bilyonaryo Business",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejVzUnhIZDRtY0R3ZWtZRjR6cmlhQjZobUZ1MDJ2dFZXb3RHNzBBSFVyVXpleG9Ddkh2b1NONVk3WEtVcjBUVDBiRkNUeG5FTnZ2Q1VNM0ZYZFhGM1dfWFQtcTh3MkRXMG9nV0ZRNzlJMUZkaml4d3pzYzFYU0ZNQlZoRU1uelJ5X29TSUUxRVdsUVNuTXdjX3ZtMWJnLUs0aGpvQWtqbENGbTZBSnpkaVlfcmhOQQ?oc=5",
       "source": "Bilyonaryo Business",
-      "published": "Tue, 13 Oct 2026 12:51:42 GMT",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "category": "物流与供应链",
       "summary": "Red flag for exporters: Hapag-Lloyd booking freeze puts PH electronics supply chains at risk &nbsp;&nbsp; Bilyonaryo Business",
       "summaryZh": "本条资讯关注“Red flag for exporters: Hapag-Lloyd booking freeze puts PH electronics supply chains at risk”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
@@ -271,13 +253,13 @@
       "summaryZh": "本条资讯关注“The Best Cheap Phones for 2026”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "NTC to regulate selling used phones, P20M in capital, permits may be required - Manila Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnQtb1dqZnNNdXRodG1ralhwdGpMeHNQcTNNODF6YWFON2ZHbDdGQWxRT1E5Qmw5eUJfOWtGTmczWHBCdTFFbWw0WW5LXzZoRElsTWlGdUpEQ1M0VXM2YklHUHQ0Y2RFUURMUjIxak40Um5lQ0tZSXo3a1dSYUFzNkI2dWlxVTlkU2ZfTVVPdDFXSWlBUjgzTE8wc3NvSy05TFRLV3RyZw?oc=5",
-      "source": "Manila Bulletin",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "NTC to regulate selling used phones, P20M in capital, permits may be required &nbsp;&nbsp; Manila Bulletin",
-      "summaryZh": "本条资讯关注“NTC to regulate selling used phones, P20M in capital, permits may be required”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+      "title": "Ranked: The Biggest Smartphone Brands in 2010 vs. 2025 - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDBNQ0ZXVVVwTlNxZkc4NlBDNnpvQklrVVcyd0ZsUGQtTXVQR0M1SjdqakpQdy1wU0doeVFuMkhPUXRZRmJ6clRmX2JKdDRTdHVwSkNqcDBVSkVzT21lVkRseXhqRDZHWTQ3UjZYVXExQ3FLMWhvNkRmbVMycXQ1YXdyRndKOUlYMVVOMmQ0RzBPRFJPaS1TUA?oc=5",
+      "source": "Visual Capitalist",
+      "published": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Ranked: The Biggest Smartphone Brands in 2010 vs. 2025 &nbsp;&nbsp; Visual Capitalist",
+      "summaryZh": "本条资讯关注“Ranked: The Biggest Smartphone Brands in 2010 vs. 2025”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "America’s Critical Supply Chain Is Breaking - 24/7 Wall St.",
@@ -334,15 +316,6 @@
       "summaryZh": "本条资讯关注“High Tech Logistics Market Size, Share | Growth Forecast [2034]”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "Pakistan's Mobile Phone Market Report 2026 - Prices, Size, Forecast, and Companies - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTJQY2ExUmo4N3liZWlTa216emJwNzF0Ty0yZ28xMXFFWkowUHctWHVORG1wQWduQ3JjUVhlbTJzS1kxSlBqWXgtN2U4NUtTQUdNdmYzVXpMZTZlQ1BUZl9rTXFLMUR3TzNyaVlYWVdrdUhsOVZvdUNBTWF3dkgtZnFxQVpXdlBHNDFHV0RsVjF5TUxMZEpvcUxjZmViOUFJQWY0T00yRk8?oc=5",
-      "source": "IndexBox",
-      "published": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "Pakistan's Mobile Phone Market Report 2026 - Prices, Size, Forecast, and Companies &nbsp;&nbsp; IndexBox",
-      "summaryZh": "本条资讯关注“Pakistan's Mobile Phone Market Report 2026 - Prices, Size, Forecast, and Companies”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
       "title": "Which Samsung Galaxy Phone Should You Buy? - WIRED",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iTXFzckd2U2RMdnczdHgwemw2UGR3SnpuUGpWQmtBZnNFM2t4NjRobVhKMldUbzNkOXpTYWZwcy0tbHZXeTlPUWVuVDVKWml0Sk1NbWx4YjN4R0NNdkww?oc=5",
       "source": "WIRED",
@@ -386,15 +359,6 @@
       "category": "物流与供应链",
       "summary": "Top 15 Logistics Companies in Dubai for eCommerce in 2026 &nbsp;&nbsp; ClickPost",
       "summaryZh": "本条资讯关注“Top 15 Logistics Companies in Dubai for eCommerce in 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "IMEI in 2026: New Rules for Importers and Sellers - Торгсофт",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sd1I5N0lnZXNuYnN2MGcxcXlfMWduY2tiTm9SeDNfUDVlZ3k5Q085LUZFbWg3SU5WX2U4cjlkMmNHSXFOWHRsNW1IMHFnUGhYVmxyTzd6Q1g3MTd0Sk50VExR?oc=5",
-      "source": "Торгсофт",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "IMEI in 2026: New Rules for Importers and Sellers &nbsp;&nbsp; Торгсофт",
-      "summaryZh": "本条资讯关注“IMEI in 2026: New Rules for Importers and Sellers”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "15 Best Shipping Companies in India for 2026 - ClickPost",
@@ -451,15 +415,6 @@
       "summaryZh": "本条资讯关注“The Pressure on Lens Technology Extends Far Beyond Sluggish Mobile Phone Sales”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "The First Customer Question Should Change the Product Record - Borkena",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkV4dVpMWUNNT0FLb0phM05ueFhJYU5ranNEbkw2YU5iMkt1elI1cnUzeUVwalBpQUFQdW9XYW1HOTZoM3dUNWM3enZRWFlMTEoyd1JVLU9abDd1UFFGZmczOVg1NjFhSzVPTDM0NFRwSTBlcUd4UlZIVDBPeDdTQndPbDg2TWRn?oc=5",
-      "source": "Borkena",
-      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "The First Customer Question Should Change the Product Record &nbsp;&nbsp; Borkena",
-      "summaryZh": "本条资讯关注“The First Customer Question Should Change the Product Record”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
       "title": "Top-Rated Logistics Companies in New York City for Fast & Secure Deliveries - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRGlyWl9qdDNSbVdYWGxfS3pqM0E5QmpNZ2JVb1Y5TWdOWUpVRmJUaUZVUkRWSWE5OEdpRExkS29QR0U3MzZtZUUxM296YmZhTHVJSi1jTXY4amdGVk9wY3JLRGc4TDR5bDNzZVhwcw?oc=5",
       "source": "ClickPost",
@@ -476,6 +431,15 @@
       "category": "物流与供应链",
       "summary": "WiseTech widens access to Evergreen eBills of Lading &nbsp;&nbsp; IT Brief Australia",
       "summaryZh": "本条资讯关注“WiseTech widens access to Evergreen eBills of Lading”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "‘RAMageddon’ hits consumer electronics as AI drains chip supply - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50MkhfY19OcXpFNG9leG9uekg3NjJfQm1mdm5pVTRIYnNqaHhDVUNLamp1Y2d5V1lGN3BHRlRIRjl3SFY0SENEanN2UnlkUlpuNVd1QjdiMk9KQzc4d0RXTzh4VEtzdktFQ05NUEc3Mk4?oc=5",
+      "source": "Financial Times",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "‘RAMageddon’ hits consumer electronics as AI drains chip supply &nbsp;&nbsp; Financial Times",
+      "summaryZh": "本条资讯关注“‘RAMageddon’ hits consumer electronics as AI drains chip supply”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Creatulize Unveils X1 Series Autonomous Bed-Cleaning Robots At IFA 2026 - Ubergizmo",
@@ -595,22 +559,22 @@
       "summaryZh": "本条资讯关注“India-designed mobile phones likely in 10-14 months under MPMS; no place for copycats: Ashwini Vaishnaw”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "UK preowned retailer CeX is reportedly opening two stores dedicated to retro and import games - Video Games Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVpXNTk5N1FEVUFUZV9nWVZPcXo5dml6N3RaZk9zU1o4eFJVeVhwUzR2VzFEVEpJVDhQdUhna2Jfc3l2VmM5YWtDX1FjbEJNMFlvSUQ4NGJaYTlqc3Y0T2Z3UlVOTVVPY1F4V1BITG04YlRTVFpQN2k0YVM0SXdNek93cUR3Q0d0cXFZRDZ0ekpSX21EN1pFcTJxakZnX2tCcm5UclpTZTdrc3VJOFVQS2pobVBIWk1pdWlEeE9WZjhiekh5Y0FfRFJTRXZqY3dF?oc=5",
-      "source": "Video Games Chronicle",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "UK preowned retailer CeX is reportedly opening two stores dedicated to retro and import games &nbsp;&nbsp; Video Games Chronicle",
-      "summaryZh": "本条资讯关注“UK preowned retailer CeX is reportedly opening two stores dedicated to retro and import games”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+      "title": "Global Smartphone Market to Fall 14% in 2026 as Samsung is Expected to Retake No. 1 Position - Counterpoint Research",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFZTUTZEWTV6UG9vV2RnTmg5S2c4eV9fTUhaRVQ3N3dMLXRpeTdtVThheUNrZEpqdlRTdGtNWHhIaVZzT29PbFNTWkVsY0pGdFN2SkhFVDRxc1U2OUhyYmZ4X1RBelc5LUp1QU0wT04wQ3pqZFdDeExTQkpuaHVtTWJrLUxrWkp4S1dNN25LcVVsYkxDcXU0elJXamdwNEU0cU5MU2laa0JaTlVycVJ1Q1paRlhCb21jZXYtQ0VZVFZaZzE2YlB4WHRxWmxrREtR?oc=5",
+      "source": "Counterpoint Research",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Global Smartphone Market to Fall 14% in 2026 as Samsung is Expected to Retake No. 1 Position &nbsp;&nbsp; Counterpoint Research",
+      "summaryZh": "本条资讯关注“Global Smartphone Market to Fall 14% in 2026 as Samsung is Expected to Retake No. 1 Position”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Sky weighs exit from iCon as Apple distributor's shares rebound 55% this year - CTech",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80OVlDdDNoMElHU09wcEI4amNQQm9IeHNqYlExSmVqWmdWWHgya3ozQkV3a1hpeVdFLWVjQVczWXVtcHpyRjRUa0gzTDNYRlRNOVlUVWU5ZU9oMXVsVDlwOGJtb2czUms?oc=5",
-      "source": "CTech",
+      "title": "Fairphone Is Finally Selling Its Repairable Phone in the US - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUk9SZjV6RXRaVzdHLVI3WC1LM3pzT2U5RmlaRTN5WjNub2lvcW9YQkN6UnItREVtdk1oS0E0NWtxOFcweGhCN09VUWRQQjF5ZVJHRlVPZm5iNHdGdU1lQjRfYkoyb2xma2tjYzJGQVV0ZGJVbUY3MnZtUGxBUFl2ZjJXclY4ckRob203ODJRYTNsU19lT01OaUJWQ2poU1RUbVBmeGx5TkRlQQ?oc=5",
+      "source": "WIRED",
       "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "Sky weighs exit from iCon as Apple distributor's shares rebound 55% this year &nbsp;&nbsp; CTech",
-      "summaryZh": "本条资讯关注“Sky weighs exit from iCon as Apple distributor's shares rebound 55% this year”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+      "category": "手机与消费电子",
+      "summary": "Fairphone Is Finally Selling Its Repairable Phone in the US &nbsp;&nbsp; WIRED",
+      "summaryZh": "本条资讯关注“Fairphone Is Finally Selling Its Repairable Phone in the US”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Top 9 Reverse Logistics Companies in 2026: Ranked, Compared for Supply Chain Leaders - ClickPost",
@@ -622,15 +586,6 @@
       "summaryZh": "本条资讯关注“Top 9 Reverse Logistics Companies in 2026: Ranked, Compared for Supply Chain Leaders”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "I plugged 10 random USB-C devices into my phone — here's what actually worked - MakeUseOf",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNZUVY4OU8yYmJwQlFDR251NmRoTWZmalVEWnFVQ0ZWRWtlM0k3QUpaNTVYcngtbkYwNjRXOHdrUU5aZUh3RC1mVzJqcEc0d0dJcldMWXdIX185RnhOcVJydlc2d2JGZWdQNXhzNXhUT0FfOGlHN0RSMm5XcmVFUFl2NEZhQ3NhaDI4bGtwcFV0VndUVVlBcnBBNm0?oc=5",
-      "source": "MakeUseOf",
-      "published": "Sun, 16 Aug 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "I plugged 10 random USB-C devices into my phone — here's what actually worked &nbsp;&nbsp; MakeUseOf",
-      "summaryZh": "本条资讯关注“I plugged 10 random USB-C devices into my phone — here's what actually worked”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
       "title": "The Top 13 Logistics Companies in Singapore You Should Consider in 2026 - ClickPost",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aMkd3U0ptWm9pWC04TGNTRjE4bF9iRXFQM0dyay1BT2d5MTdxdnZmeG1tWlhKVXEzQlRacVJva0w0X0h2MHZpU3NEcE1oSU5hblYxcU0wTkVvcXM4SWFCNEh4UXVnVXFtU3RHYjF3NA?oc=5",
       "source": "ClickPost",
@@ -638,6 +593,15 @@
       "category": "物流与供应链",
       "summary": "The Top 13 Logistics Companies in Singapore You Should Consider in 2026 &nbsp;&nbsp; ClickPost",
       "summaryZh": "本条资讯关注“The Top 13 Logistics Companies in Singapore You Should Consider in 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "9 insights from mobile disrupt 2026: where the global trade-in and refurbished device market is heading - Breezy Site - Breezy Refurbished",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1djMl9UczFZWDRqc1JkOXpUYWFUOEdqdnJmODdYTDVxNUhlMjdaYkgzT015SnNRU3pYWHh4THF1WGFtOElRcVVZZFpDRWdOV19oa1FaRzQzamdKVVptRWM1V081OWwybkp2cjlZNTZIbTNoQmpvYlgyaE8xcnVOaA?oc=5",
+      "source": "Breezy Refurbished",
+      "published": "Wed, 05 Aug 2026 09:07:23 GMT",
+      "category": "手机与消费电子",
+      "summary": "9 insights from mobile disrupt 2026: where the global trade-in and refurbished device market is heading - Breezy Site &nbsp;&nbsp; Breezy Refurbished",
+      "summaryZh": "本条资讯关注“9 insights from mobile disrupt 2026: where the global trade-in and refurbished device market is heading - Breezy Site”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "The best anti-AI smartphones in 2026: Expert tested and recommended - ZDNET",
@@ -667,15 +631,6 @@
       "summaryZh": "本条资讯关注“How long should you keep your phone for? I did the math – it’s likely not what you think”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "How Amazon Leo plans to connect mobile devices from space - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajdxUy1zYmtPMHN6ZU5UQVlIc0VZckkwdU4ySVVFakY0QUItTmdCeFRESmxXejVCdzJwbGpKSEtLRGpTQmtmUVNkN19vOVkzcXg2eUY5emNweVg3SWpOZVVIOWo5TDFRcmxTdUZJVWhPSzUycTdOTFdNMjlyRnRGRlVqYzVwd09LRUt1ZWpVZzEzRFJxMENOWVdfNEVRckl6?oc=5",
-      "source": "About Amazon",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "How Amazon Leo plans to connect mobile devices from space &nbsp;&nbsp; About Amazon",
-      "summaryZh": "本条资讯关注“How Amazon Leo plans to connect mobile devices from space”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
       "title": "Fund managers want Taiwan to lift mobile phone ban - Taipei Times",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JU0J1LUtSYXFWQWJJa0kzWFNJSC1NdjNDZnhDcktkNTVFbjZuQ2FYbmdWS0FHR18wTXFIYlNOcGxpaUdtQUk4NDZnOEI0T2REUW82SnZHdWtsMmpmZVU4dDZXUWZzbE81STdNNUdJMlUzblIyOWc?oc=5",
       "source": "Taipei Times",
@@ -694,42 +649,6 @@
       "summaryZh": "本条资讯关注“Kenya cracks down on grey-market phone imports”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "With immediate effect: Gov't introduces new requirements for phone dealers - Tuko News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUdFZWdLU1BTQ2g0dE9zSEhEOWsxaFJyVS1uTGlYNFkwSnc4dExGLWVOMEZOcFlqOHNpdXNTY0dzd1RFU29WYU56TjI0T3dHWFZ0UXhHQU44X0N0OTlUVUYybXFLT1ZfU0ZHWVpqQnNhdHRLNGhMbWFkalNFYVEzZzBiLTRhS1hjZDV4VmxMLTZsNkRUeEZYb0RZWjhPanBkN3lpZXFHbG5nckk2b3NNMFpGMEVGenBTU0JUZ19QODU1RXVITDVyZlBJMDFwUQ?oc=5",
-      "source": "Tuko News",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "With immediate effect: Gov't introduces new requirements for phone dealers &nbsp;&nbsp; Tuko News",
-      "summaryZh": "本条资讯关注“With immediate effect: Gov't introduces new requirements for phone dealers”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "You Now Need a KES 250,000 Licence to Import Phones and Routers Into Kenya - Techish Kenya",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwelZCV2JyQzdYMzZjVllTUkRxZkpjUmw2MzdyWHZocFlJZHBFaV8yVmpXVTZNdk9JOWRFNmNFNmRXd0FLRXREdFlQZUI1dTV3WlpjNHNGS2pLcmpyNVVvSldEN1FGS1lDUm5qUERFUkE4TDB6Z3BPeA?oc=5",
-      "source": "Techish Kenya",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "You Now Need a KES 250,000 Licence to Import Phones and Routers Into Kenya &nbsp;&nbsp; Techish Kenya",
-      "summaryZh": "本条资讯关注“You Now Need a KES 250,000 Licence to Import Phones and Routers Into Kenya”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Kenya's New Telecom Equipment Licence Explained: Who Needs It and Why It Matters - TechTrendsKE",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHVOV0dTTkprMHdvLXZMUGdmaW1uWWVoaGhuZkdlZEFNb2NxdDJIWEl3dnlkeTJERFNYa2RnbjdId0I5SDRCQV96X0ZFSW1heHhKOUJyaWdrNEJGUVp5RmctVkMwRVZvTndnbDU0ZVFMdDVadV9LaEhYc0owT1ZEbU5yTFpzMHZSalVrejZjMmJibG8?oc=5",
-      "source": "TechTrendsKE",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "Kenya's New Telecom Equipment Licence Explained: Who Needs It and Why It Matters &nbsp;&nbsp; TechTrendsKE",
-      "summaryZh": "本条资讯关注“Kenya's New Telecom Equipment Licence Explained: Who Needs It and Why It Matters”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya - The Kenya Times",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xT3pxLUhxSlltSXI5VDlBb29EYXJWY2ZacEZNc0JpXzh4VVZYRXBXcTFIN3otVlhsRW1JWjVBWGFmTjVlbV9tT0hfaUlBcGVNb2pfYldyelFRdDRURjNvMy1JRERnbFpNWmxkcw?oc=5",
-      "source": "The Kenya Times",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya &nbsp;&nbsp; The Kenya Times",
-      "summaryZh": "本条资讯关注“Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
       "title": "Premiumisation to lift mobile phone output, exports in value terms: IT Secy - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQnliTElwaV95WmM3U0VSVTF6bWFESFNFMjBUb0hyYUZLWXdWVVhGSjdiUmNJV2JvS0FHcEJFRWxPVTl0X3dGLTR5ZXhPRDhqMlZvVWFEcjRmdVgwaDUxeE9Ed1pVdFg4YlNPenRMdVVVRGNZbkpmZWZBRWV2Njg2M092MWZvcEFWVi15T1RHRzdxWDVkN3VKM09tbDJudE1jcGdyVzdacDhTRThsMDFqMlhabmVXZmd3eDdnM0wyMnFITEtvcXNWVzBfUU01Wk1XUWdpN0lhSWhRLURDbWZCM01n0gHnAUFVX3lxTE4zYUotbmxQNk8xX0toVjZLSkVsaFZxMlJVUkMzNDM3V29lZHctUHBvSVZ4bjFqSFFpTm5ybGx3bjFKaEVrM2FKQXlNcUQ2a2Y3N0MtdWRBMnJsX2djb0NmeHNLdHdEYVhyUlkwbS1BOWJyMWI3dDc0ODJKcXZ0Y0tvR0lEZ0hISlZyVm9hSFFiZ1hUOHdWZmRWTzFzcTZkUnNZRDQ1MWo1Y2l0N2dlUW53SEI2Vjc5YThnaDI1WUFZLWJjMUhHczNfR1ZZeGdsTTJQVXBIWmxxbDlXcGttTnpkODlnbGpObw?oc=5",
       "source": "Business Standard",
@@ -746,6 +665,87 @@
       "category": "手机与消费电子",
       "summary": "Samsung relocates consumer electronics HQ, trims US jobs amid mobile business woes &nbsp;&nbsp; Firstpost",
       "summaryZh": "本条资讯关注“Samsung relocates consumer electronics HQ, trims US jobs amid mobile business woes”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "North Korea Taps India for Smartphones - 38 North",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Hb2diWHFoY3BTSGJXRzVXRmtlUXY1d3kxTnczUTVwYjk5UXB0Ul9XWWJnR3VZQ0poOGZGemMzVlA4WWk4MVhPZ05Ha0gzejROZlBRV3B0QWNsSS1OcVFXR09IakphRW9UM01tQzRmZ2F6bXY2YjlzeGd6VQ?oc=5",
+      "source": "38 North",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "North Korea Taps India for Smartphones &nbsp;&nbsp; 38 North",
+      "summaryZh": "本条资讯关注“North Korea Taps India for Smartphones”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMElESzI5RzlSVHAxYXNNajJiWDVSblMzNGcyV0VTcmhpSHJfZ2ZLV0J6OHBTOVcxOENMaVJ2SmRDZEtyNzRtN3hCNkZFeWVNZldaMGV5Xzk1R2VNbTZZVUpwZk11a2sxd245bUpNd19xMkViUW5NTm9pRk1SSkkxY0xRNkxLaGF1ZlFsS3ZJcklqYmc?oc=5",
+      "source": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "AI-driven memory crunch jolts India’s smartphone market &nbsp;&nbsp; TechCrunch",
+      "summaryZh": "本条资讯关注“AI-driven memory crunch jolts India’s smartphone market”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "No evidence mobile phones cause brain cancer – new study - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2FUMGRHNktZZXZ1ZEl0LW91UkVCbFdLY2swSmV0aTVpOXZNY1JzeURrdXNCX3BLYkZWVmhPTzJvTjBwU1lBOU9xem1VLXVhcXNsR0ZnTVZmNTIzYWpjcFh5MjAyME1ZMU01Z1lqdk85STE3Nl85QmtOWVk1UmhjSjE2ejBvOFdhN3ZVTE9JWE83Z0U?oc=5",
+      "source": "The Conversation",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "No evidence mobile phones cause brain cancer – new study &nbsp;&nbsp; The Conversation",
+      "summaryZh": "本条资讯关注“No evidence mobile phones cause brain cancer – new study”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWJ0UDMyYjh0eGFJbDUtUlFxTGdQS1NIRk0zYjlBS0ptdDE4eldqNE9OZE1yWmR4N21hd1R6VnpYQjkwNUp0WUhKN252R0MtUVpqNm04Vk9pMFEzblQ1N0N5TWtHZ3JmQnZiREQ3UUJtT21VZlpDbkRhbmRvWVFIdEVNQXN6MGREOEJYQm0yWlBGTDdmQkVyRUFaRjZQZWk4MkRTQ3YxVTYtS2g3NGc?oc=5",
+      "source": "TechCrunch",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Phone maker OnePlus says it won’t release new phones in the US and Europe &nbsp;&nbsp; TechCrunch",
+      "summaryZh": "本条资讯关注“Phone maker OnePlus says it won’t release new phones in the US and Europe”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay - electronics.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWmNBM2RDWDBZNU9tbjJYN1NHY1dMWVA2Tk53Z0F2V29pSkRQN2RBYndoczVlY3dKd2FPN2Jrem5rVzkxdWxkMlZSVXlKaDBCelROUnlGOFQyMVNUbl9UOTJjWXoyR1R0UE1LTnY5ZktHYnhzTmZnQ3Jsb1NiYXhJYzluMVVpOFNtME1FRk9DMmdVWFM3dkNIQzlud2MxekdZWUQ2SkJFdFpJVnR4Um14NWZ0SUtGdEZ2anYxVHNWZG9YUW9TVlQ0YjdlYWpZTVpqTmdQUXk3TFplSU9mNFk1NW5EZXRjako3U2NlUXFndWlkOGdYSGdQcGJn0gH_AUFVX3lxTE96dExEVl91WkhQbUVESWRJbVZzRkhVZEtsWTZVdV9hcVE0T0FZWno1aWthajdnUmEzX0NndTFGR0c0TjF2Tl9VOE9tQUhmQ1dCcVgteGhFb0RLUTN5OHBTdkFnM003RFJSVnpnQk12QThFUVNPU3ZpOXFiakhKX1BPSUptMk9EV2hRclpFcXpHQ3hQQ3NUSTBtbmIwN2s4NWg4NDZ3OXdlQk1LZ0FSdlhkYzB4TjBqNWZWbXhWMW1Bbi04ZFdnd0prX0R4TzhLb19yb1RBX2pvbkNvOUpoeEhIWVp2SVoxNmYyN1FSLXJPdFh6eF9HQ1NUOEM1eVNzZw?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay &nbsp;&nbsp; electronics.economictimes.indiatimes.com",
+      "summaryZh": "本条资讯关注“Modi government approves Mobile Phone Manufacturing Scheme with ₹62,500 crore outlay”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Inside Nokia’s Race to Catch the iPhone and Android Wave - IEEE Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdDA1VHE3TmZmZVlYNUF5MkF6elpaZUhqYXhrR1ptaWI1Z3RQS2JGRnZMUnRsclFnel81TEpNZTZkb294ZXJrQnNVeWVkYzIxeUVKZk5MNVBZQQ?oc=5",
+      "source": "IEEE Spectrum",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Inside Nokia’s Race to Catch the iPhone and Android Wave &nbsp;&nbsp; IEEE Spectrum",
+      "summaryZh": "本条资讯关注“Inside Nokia’s Race to Catch the iPhone and Android Wave”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Landline phone orders spiked 277% this summer. Blame your smartphone bill - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlhBRTZxRHlXdjBsT0llSFI2cFc3eFhaTHNPMnBHYXFJWkVIMTMtMGdZcHFsN0tVTGZsV0YwSGgyM3UzVzRGUUV0eWlTWmJPa1h5UFAtUGxiTlZ4X0llMmtBbU8zUUVnUVdUQS1rcVE3MDA0cUVlTUI4cG10alJRdHBIZlJmM1l2Z2U4cU9ZcjZ5cWZ0YnA0cA?oc=5",
+      "source": "Fortune",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Landline phone orders spiked 277% this summer. Blame your smartphone bill &nbsp;&nbsp; Fortune",
+      "summaryZh": "本条资讯关注“Landline phone orders spiked 277% this summer. Blame your smartphone bill”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Top 10 Mobile Phone Brands in the USA (2026) - Global Brands Magazine",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SRmlfZEtMZlRjQWtncU1MMjAxYmZhS2dPbHFSWVFubzVnNzFQTW1tbWVabTdVN0FWeUdKaEliZjhCRjktVEpzZWMxYkpoYVFLVmdITS03WFdDMUd2NFhaVEgxSjR1dGN2U096Uk9SRUkwOWxUWDhN?oc=5",
+      "source": "Global Brands Magazine",
+      "published": "Mon, 06 Jul 2026 13:51:35 GMT",
+      "category": "手机与消费电子",
+      "summary": "Top 10 Mobile Phone Brands in the USA (2026) &nbsp;&nbsp; Global Brands Magazine",
+      "summaryZh": "本条资讯关注“Top 10 Mobile Phone Brands in the USA (2026)”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEpGSmRaUnBuUjRhWlRCWmhucG1XZlNvejJobG52aXVaWXgtYWh1Z18ybFJTVnBlY2NkZjBLbWQzRlBITVAwMHpJOVBLaDFfTWFpSlo0eEd6QUc1NzBUcHNXY3UxNGVRYmV0SFQ5T0hTN3BVRF9pQXV3Qm1XOVJSTS1DblBZQjEtU09wdndVWlNUamNhMDlUNnptRjNubUk4eWI1UGdyd3p2Zw?oc=5",
+      "source": "PCMag",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful &nbsp;&nbsp; PCMag",
+      "summaryZh": "本条资讯关注“Don't Toss It: 10 Clever Ways to Turn Your Old Smartphone Into Something Useful”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     }
   ]
 }
