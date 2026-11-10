@@ -1,32 +1,41 @@
 {
-  "updatedAt": "2026-11-09T07:58:54.864Z",
+  "updatedAt": "2026-11-10T08:25:19.629Z",
   "summaries": [
     {
       "category": "手机与消费电子",
-      "count": 31,
-      "overview": "今日收录 31 条，重点包括：Micron Technology stock at EUR 606.90, down 3.33 percent premarket - ad-hoc-news.de；Dixon vs Syrma: Mobile phone scale vs 9.7% margins — Which EMS strategy wins after Q2?。",
+      "count": 29,
+      "overview": "今日收录 29 条，重点包括：Micron Technology stock at EUR 606.90, down 3.33 percent premarket - ad-hoc-news.de；Comparing AT&T and Verizon Mobile Phone Plans。",
       "focus": "关注新品规格、芯片与电池技术，以及主要品牌的价格和发布节奏。"
     },
     {
       "category": "市场与渠道",
       "count": 14,
-      "overview": "今日收录 14 条，重点包括：Import Enforcement Sparks Anxiety Across Phone Retail Chains；Cat Litter Box Set Market To 2035: Premiumization and Smart Features Drive Upgrade Cycle - News and Statistics。",
+      "overview": "今日收录 14 条，重点包括：David Jones books record-high sales as administrators chase buyer for collapsed retailer；Cat Litter Box Set Market To 2035: Premiumization and Smart Features Drive Upgrade Cycle - News and Statistics。",
       "focus": "关注重点国家需求、分销商变化、零售价格和渠道库存。"
     },
     {
       "category": "物流与供应链",
-      "count": 29,
-      "overview": "今日收录 29 条，重点包括：MATX Q3 2026 deep dive: China service demand, port congestion, and e-commerce lift results；High Tech Logistics Market Size, Share | Growth Forecast [2034]。",
+      "count": 31,
+      "overview": "今日收录 31 条，重点包括：Singapore's Manufacturing Growth in 2026: How Electroni；How Global Semiconductor Supply Chains Are Reshaping Electronics Manufacturing。",
       "focus": "关注运价、港口时效、关键零部件供应和交付风险。"
     },
     {
       "category": "法规与合规",
       "count": 6,
-      "overview": "今日收录 6 条，重点包括：Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain；Global Building Intercom Supplier: ANJIELO SMART Highlights Wi-Fi HaLow Innovations at CPSE。",
+      "overview": "今日收录 6 条，重点包括：Global Building Intercom Supplier: ANJIELO SMART Highlights Wi-Fi HaLow Innovations at CPSE；Top 10 Double DIN Car Radio Manufacturers in China 2026: Driving the Future of In-Car Infotainment。",
       "focus": "关注 CE、FCC、RoHS、产品准入、关税和数据合规变化。"
     }
   ],
   "items": [
+    {
+      "title": "Singapore's Manufacturing Growth in 2026: How Electroni - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN1pXeDJtdndUdE5XaTROMG00RFVEdmMxLVlrZ2YwblRfaEQ5S191SDNBOUNDc2liRkRsaDZWREZKVC1mWl9rUTBoVktDS0RNdWNhdGxRMHVrNWRHaXM3cU55bFRIWHF5dDVvdW82RU9hYlNqcnVHME9PbTdPVkdmU0NzNjR2Q3NsLWZZbWd6cVp6elNtQThIY3FoZXJ3QlJSUk1GajFCYTUxQm1IUXg0Y2V0YjI4T09QeWxfU3hlSEh0MXl1QUFvdlBVamV5aUhvcWlnOHBxVjZ1SjlLWDlYNVRkeHdGVFhzb3g0dVlB?oc=5",
+      "source": "Business News This Week",
+      "published": "Mon, 09 Nov 2026 09:31:09 GMT",
+      "category": "物流与供应链",
+      "summary": "Singapore's Manufacturing Growth in 2026: How Electroni &nbsp;&nbsp; Business News This Week",
+      "summaryZh": "本条资讯关注“Singapore's Manufacturing Growth in 2026: How Electroni”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
     {
       "title": "Micron Technology stock at EUR 606.90, down 3.33 percent premarket - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmpKMlJaMDJ1dlE2bVRGek41VWtVNlJIMlpYcndmUlp1VllFNHZ5TEhvZEtmakJjbXJZRnAxeFJra1lSS2pxT0hhQWtNVm5ScGVFZ19xNWdwUEVQTUJYcUpxYjBNdzZvMTNjM3M4eUY3aHZvRVNXcmJFeEJVeXFuM3I4M19oWkxYbnpBeGs5WjdzV0N4Q3M1MWd1bEdhT3dqVXh5LTJ1VERxWFZjUzZBVEN5Q2hpRS03ZjR0SXpkdW0?oc=5",
@@ -37,13 +46,13 @@
       "summaryZh": "本条资讯关注“Micron Technology stock at EUR 606.90, down 3.33 percent premarket - ad-hoc-news.de”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Import Enforcement Sparks Anxiety Across Phone Retail Chains - Independent Newspaper Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGFPcnVqQ1JhVVZpQmVPT1lTVkM3RnJsWlRhVVB3ZWotdjdoS2VzUWU4Y2xWS0cxYWFKdlFZVGRrS1hrTk9oenYwTE5NdExqeWVCNDQzckxhbzRrcUxoX1d2M0RMMHFWdmNCTmdhcTVsS2NCQktmNGJtZ2U4MXplRlBLdVNiVG1QRFp1QQ?oc=5",
-      "source": "Independent Newspaper Nigeria",
-      "published": "Mon, 09 Nov 2026 04:59:35 GMT",
+      "title": "David Jones books record-high sales as administrators chase buyer for collapsed retailer - SmartCompany",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUYzZnV0ZVdTeU0wUThDa1JRUzVEMW8yZjNLTVZNb0szTmxLQnZ3cDVGT2RMaC1EU0ZWdFlrT0xLVXMxa3ZMSlBzbzJGb3FzaDZIcHQ4RUNVejhnRW9UeEIybXpCOFE1SVB5YUVtS0czM0JMeWp0WFozNXc5enZrZkhSTkRCY1FuVTJ4TVlFdGp6ZFdtSXg4alFlRENWdw?oc=5",
+      "source": "SmartCompany",
+      "published": "Mon, 09 Nov 2026 01:13:24 GMT",
       "category": "市场与渠道",
-      "summary": "Import Enforcement Sparks Anxiety Across Phone Retail Chains &nbsp;&nbsp; Independent Newspaper Nigeria",
-      "summaryZh": "本条资讯关注“Import Enforcement Sparks Anxiety Across Phone Retail Chains”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+      "summary": "David Jones books record-high sales as administrators chase buyer for collapsed retailer &nbsp;&nbsp; SmartCompany",
+      "summaryZh": "本条资讯关注“David Jones books record-high sales as administrators chase buyer for collapsed retailer”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "Cat Litter Box Set Market To 2035: Premiumization and Smart Features Drive Upgrade Cycle - News and Statistics - IndexBox",
@@ -55,31 +64,31 @@
       "summaryZh": "本条资讯关注“Cat Litter Box Set Market To 2035: Premiumization and Smart Features Drive Upgrade Cycle - News and Statistics”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "Dixon vs Syrma: Mobile phone scale vs 9.7% margins — Which EMS strategy wins after Q2? - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1RXSGtiOWREdkNNbkh1MHlVN2RTaFRzcGk2ZUlDZnJKZUVvZUNyY1BfX0d5UHFLZUp5MHpqclEySkVLQi1MemkxSmVCa1RvUDFVdjBNSG5FNXljNlJnbHJVMlFlc0N4aEo5eWdwVmVVRTkxWGpaajBfWkh4ZzAxMFdCWnI1OS16T1JVMkZTM2dGRUc0UEtxY18yMU9Hd2pPMW13UGhJNlFxU25sRndOVVNteFljdTI2S3g1NHhjdzNwaVdXal9OZlRn0gHQAUFVX3lxTE5qSjBBMjNKSndHc254bmhoa0JqMk9qRkVxVVBnN2k0N2tVc0kxVmN0Ynk3cmYwXzZxNm5RZVpGV252c2ZlaTZwQ3ZXdVhKYV9TNEhSUzItRENuang3M3hLUkU5cmVOckM2anJObmZEaWJjNHQ3aHR0OHl0akk1RzdYQkVxTkhvV2d1a01jZUlUeHRKdWFWNXFaVzNHV2pXMUZ1bzFpdjhFZ2p0N2o3ZEhwTDlneXR4b3ZXcjhOaDBtbWFfOUpCVjlfMUZ1VmUwLVI?oc=5",
-      "source": "The Financial Express",
-      "published": "Fri, 06 Nov 2026 05:23:52 GMT",
+      "title": "Consumers forced to pay Tk 300–440 extra for cooking gas - Prothom Alo English",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcUtwcWhYNlQzRzF2RlhobThPNjQ2NXNZN3RrMGJDVnpyOExiX2pTYjdRWC0tZGttRXNNbV9CdjFmRV9RVEZ6RVJsOWk4SklLOVp1OHE5UjgzSU3SAWhBVV95cUxNNzFNNmZmV3hRMGszWXlnX0c3MnFkQmZKdlUybkJ4U29SSVV1SmstM2xWWW55STJVWDQyOHAweU8zai12amQ1QkZ0aVE3UXNPUUhGb3c5UWs0bHg2WkpWbFREYVBCbk1LMA?oc=5",
+      "source": "Prothom Alo English",
+      "published": "Sun, 08 Nov 2026 12:06:35 GMT",
+      "category": "市场与渠道",
+      "summary": "Consumers forced to pay Tk 300–440 extra for cooking gas &nbsp;&nbsp; Prothom Alo English",
+      "summaryZh": "本条资讯关注“Consumers forced to pay Tk 300–440 extra for cooking gas”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+    },
+    {
+      "title": "Comparing AT&T and Verizon Mobile Phone Plans - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VT05QbVA5Y1JQMnd5Y3pYeGQ3NlVISmNnNmxraVpCUGxldjhrcnZVUDNHZC1zMGdpQlRDSzZhQm5uWWY4NjRYNFhNNDQyUFpTd2lzLTVmZHRSZ0No?oc=5",
+      "source": "CNET",
+      "published": "Sat, 07 Nov 2026 22:22:00 GMT",
       "category": "手机与消费电子",
-      "summary": "Dixon vs Syrma: Mobile phone scale vs 9.7% margins — Which EMS strategy wins after Q2? &nbsp;&nbsp; The Financial Express",
-      "summaryZh": "本条资讯关注“Dixon vs Syrma: Mobile phone scale vs 9.7% margins — Which EMS strategy wins after Q2?”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "summary": "Comparing AT&T and Verizon Mobile Phone Plans &nbsp;&nbsp; CNET",
+      "summaryZh": "本条资讯关注“Comparing AT&T and Verizon Mobile Phone Plans”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain - Cincinnati Enquirer",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeW1MX2s3OE8yclY4YS1QVmFnOTZZbjkwZlVUV2J4REhCaVJEajkzczEwb0ktb3dmRTNCR19iUjcyWG01X1Fxb1lNNHJQUklZME42bUIzTW03c09LNFR4dzBPQjNlXzJJMVREc0kybHBrMlo0UGtiNENGNzZYdlhwQzZUNjE4LVNkSlo2Y1dVN081ampnWEdBTkVGdlgwNkNEU01CZU0tMWx4Z1dXVlp4SjdKSHgtYVNsdkFHSUFqWE5nLUJsaTFiRnp4S1BKaXdmOU5RV0Y2dWc2WXNuNTdOQUJ3dGRNazJN?oc=5",
-      "source": "Cincinnati Enquirer",
-      "published": "Thu, 05 Nov 2026 21:19:27 GMT",
-      "category": "法规与合规",
-      "summary": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain &nbsp;&nbsp; Cincinnati Enquirer",
-      "summaryZh": "本条资讯关注“Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
-    },
-    {
-      "title": "MATX Q3 2026 deep dive: China service demand, port congestion, and e-commerce lift results - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHdMRTdIMzlzMm5NdEhNemcyYmphYUF0em5xZWtCQUxTcEhra2lJYzBMbWxWcC1BMlVGQjc3a1N3VjJxQUNqWFN5WGliblEwSXZLTG85UHJsT2VaSnhOZ2JPSUZmaVF3Q2k1OWtDRTdkRnNlRV9vUWltZ0VSU2ZxRDJoQXMwcEFCS3hScHZpdDM3WVREODN0d0RVTkZ1V3ZjMXo5dzlBeWJnT2cySS11Y2dBeWN3WmN6UE5EQXV2ZC0yNUdubWlxSEJWR19INV9fUFNTWjBCOTE4R0h2aUk2OXRvRQ?oc=5",
-      "source": "StockStory",
-      "published": "Thu, 05 Nov 2026 10:14:08 GMT",
+      "title": "How Global Semiconductor Supply Chains Are Reshaping Electronics Manufacturing - Global Trade Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkxCRkVHVlE2eXNfbjlZZDVtZXlZSHRPVnRKZVBhOHMwTHpseXZzMmlOVEltS2hGNGtHdmdVVFlqdmRTX0JvY1BrejJyalR2MkltOFFCRGxhWFByZXQxc3Jzd1lZMTdSLUE2OTBnMDFSb1czTWZmT1IzNUVUUDBKSi1OZGFJdlJBWVNub0UwLTJWNXN6WExSTjZZWjFwVWJWcy13X3dMVUlBQ3E4V0w0?oc=5",
+      "source": "Global Trade Magazine",
+      "published": "Fri, 06 Nov 2026 10:05:46 GMT",
       "category": "物流与供应链",
-      "summary": "MATX Q3 2026 deep dive: China service demand, port congestion, and e-commerce lift results &nbsp;&nbsp; StockStory",
-      "summaryZh": "本条资讯关注“MATX Q3 2026 deep dive: China service demand, port congestion, and e-commerce lift results”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+      "summary": "How Global Semiconductor Supply Chains Are Reshaping Electronics Manufacturing &nbsp;&nbsp; Global Trade Magazine",
+      "summaryZh": "本条资讯关注“How Global Semiconductor Supply Chains Are Reshaping Electronics Manufacturing”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse - BBC",
@@ -89,24 +98,6 @@
       "category": "市场与渠道",
       "summary": "Second buyer makes rescue bid for Poundland as retailer faces collapse &nbsp;&nbsp; BBC",
       "summaryZh": "本条资讯关注“Second buyer makes rescue bid for Poundland as retailer faces collapse”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Oranges sold for Tk 190 a kg at wholesale markets cost Tk 350 at retail shops - Prothom Alo English",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYTk2bTlSUUlzZDhYQko1ZFd0MHFMbHlxcmZqYkNtZXlhSFNNYjlZeldYRXRMYTNGSHdwNkZkSmdvcTJLNVlhOWZiMFZ6bGNobmczQ1I1T3EzdXdHY00tUdIBbkFVX3lxTE1NQVp4LXB6WXJwRS1McVo3MjkxWTBaeXpQbXdSUmZPMzN2bnNZd2piSFEydXdMNzZBRXpjSnB3RHdfeUluVTR1ajNlYnhVUGFmalpPaWpGY2huUVBBZWFfWjdFYTd5U1FCbHNEekhB?oc=5",
-      "source": "Prothom Alo English",
-      "published": "Thu, 05 Nov 2026 08:48:36 GMT",
-      "category": "市场与渠道",
-      "summary": "Oranges sold for Tk 190 a kg at wholesale markets cost Tk 350 at retail shops &nbsp;&nbsp; Prothom Alo English",
-      "summaryZh": "本条资讯关注“Oranges sold for Tk 190 a kg at wholesale markets cost Tk 350 at retail shops”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlJT3R0clJVSkpBRkR1TGp2ZU0zWTljNV9VQ1F1a3hiUVdudWJpM3h5aXZWcDhDZEhNU19CQlpGV1RKZmhZbjVhV05rWkdCbFVma2JPMGplSUE5a3NYMk10U2Q4NDYyWmJCNnljeDFWVmt0c053WnJoaHRjSkNCV01FVFZucTQ0SFBQOHA4aFBMTkItb3E2SmlpdWNDNXVjd2xZeHl2b9IBrAFBVV95cUxPUXo4bEVDS3N4cUlPeThFajVycVB0ejdqSUpJYzZPMlAxTFFIcnROeDNNX1F4NmlVYUNZRXp2R2pfendpdkhaQWx0NHljdFl6U0dJekJYWFZObERiTzZ2S2dORlgzXzVDZkFTZ09QNlo2Qkt0N0stM1NwUjktQ1oxUzZEZVZfTXFkd0djVTkyeFJCYTRzczExSnBOc3R4dFdXLVR0SFRCY1psTXJ2?oc=5",
-      "source": "CNBC",
-      "published": "Wed, 04 Nov 2026 13:30:02 GMT",
-      "category": "手机与消费电子",
-      "summary": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service &nbsp;&nbsp; CNBC",
-      "summaryZh": "本条资讯关注“SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
       "title": "Best Phones in 2026 | Top-Rated Smartphones and Cellphones Compared - CNET",
@@ -127,12 +118,21 @@
       "summaryZh": "本条资讯关注“Global Building Intercom Supplier: ANJIELO SMART Highlights Wi-Fi HaLow Innovations at CPSE”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
     },
     {
-      "title": "NCC issues fresh warning to phone dealers, importers over new compliance rules - Legit News",
+      "title": "Cell Phones in Schools | Pros, Cons, Debate, Education, Technology, Distraction, & Emergency - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45cEtUcnRTUExIMWdmUk91VnJhcll5S3g0bjZERWpWLWNoaTlvUi1keWhKU2dsZDdUTnZ6NFFGakhZM242clU3RnZXRTZWRzlpOWMxUDRLLWRYN24zVUxZZmFB?oc=5",
+      "source": "Britannica",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "Cell Phones in Schools | Pros, Cons, Debate, Education, Technology, Distraction, & Emergency &nbsp;&nbsp; Britannica",
+      "summaryZh": "本条资讯关注“Cell Phones in Schools | Pros, Cons, Debate, Education, Technology, Distraction, & Emergency”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "NCC issues fresh warning to phone dealers, importers over new compliance rules - Legit.ng",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXZjU2tEVkRlN2ZZdVF0azQ3ZDA2VFVPd2dKd3l6WG41cmdMRGtGQlRNdjBnZ3JzODZCQjFEMm5rZW00di1ibzhTUXktTUM2ZVF3YURXVnpLQVoyTXdtSFVDQ3FVbEtkM3ZGRFpIYUVTOVVBclBSRlhjLWZvRGk5bjdiOFRFVW4tZ0VLc2lUN0dPR1pGZXNjZ1U5LWlHZ3JXakR0VDlwMklXTkxyb29pcXRQZGowUEFPb3hzMmtORXVHNFc2WXA2TTNQdF9QejJjUXBV?oc=5",
-      "source": "Legit News",
+      "source": "Legit.ng",
       "published": "Wed, 21 Oct 2026 07:00:00 GMT",
       "category": "市场与渠道",
-      "summary": "NCC issues fresh warning to phone dealers, importers over new compliance rules &nbsp;&nbsp; Legit News",
+      "summary": "NCC issues fresh warning to phone dealers, importers over new compliance rules &nbsp;&nbsp; Legit.ng",
       "summaryZh": "本条资讯关注“NCC issues fresh warning to phone dealers, importers over new compliance rules”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
@@ -145,22 +145,13 @@
       "summaryZh": "本条资讯关注“Americans’ Use of Mobile Devices in 2026”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "High Tech Logistics Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PdU92MDhwMFVORVNKdDhIaW9qeXFrcUlJODE2c2hiR0NNWDd2enc1WVlqYWtSRmk1LVJqbEZ0c0dqaGNGMUk3V3Z0aXZ3RHE5cHlHRllXNVRwbEszenFXSXE2UW5RQ05HUkdoSmF6SEJsRllRdjg2bVBaQlJnUQ?oc=5",
-      "source": "Fortune Business Insights",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "title": "5 trends defining consumer electronics supply chains - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmh6SVlGYTFYMDFSbk5Cak1UOU9MM0FpMnZWekViajFwQ3JfbERoVWdCMUtkYnJaQzhqVnJhb2JUVEExRm9NY0otWllkZ3FSZFJxQVFKaVhvVWhBeFprSlIxQ1dseHJBQkM5S0o1NkhicnFpSHliaDZFMTA4OW9VazVfWjFvaWRtNHZ3cnVkdkVOUk52Ynk3dzY3eHc3Zw?oc=5",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
       "category": "物流与供应链",
-      "summary": "High Tech Logistics Market Size, Share | Growth Forecast [2034] &nbsp;&nbsp; Fortune Business Insights",
-      "summaryZh": "本条资讯关注“High Tech Logistics Market Size, Share | Growth Forecast [2034]”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUJpeWVETW9QVGFjZlRpMGV0OFZFakpacDJ5Q0tnWGhCX21UZjJKbVY3LUswblQ5VG1ma2VlUDN3RUl2TDZYYk80empndTBpM280eWRLZUFVTTg2MkIta2NCYVZ4M2lLeEt6VnJGaUY0RGlNRVV3Ui1VUVJqUlV4UFVYaHd3dVJDSllOeWxJN1o2Y1ZHcXBWcEtLN01scU9wc3dfSGp3VkxtTHZBYVN6aGVOX1hJRjFUSG9OWURHWUVvQUZxQ2I0cHNSQkNqV2hTME5ULU5LdnpaVkRvTWpFcUVKb2VHQktqRktqRg?oc=5",
-      "source": "The Tennessean",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES &nbsp;&nbsp; The Tennessean",
-      "summaryZh": "本条资讯关注“Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+      "summary": "5 trends defining consumer electronics supply chains &nbsp;&nbsp; Supply Chain Dive",
+      "summaryZh": "本条资讯关注“5 trends defining consumer electronics supply chains”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "How Consumer Electronics Supply Chains Are Building Resilience - DP World",
@@ -179,6 +170,15 @@
       "category": "手机与消费电子",
       "summary": "Our experts have spent months testing smartphones to bring you the best for your lifestyle &nbsp;&nbsp; The Telegraph",
       "summaryZh": "本条资讯关注“Our experts have spent months testing smartphones to bring you the best for your lifestyle”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Electronics manufacturers fret over extreme heat disruptions - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGU1cjlYU3BsekMzUjR6cU1wVXRqSWE2YUpabFVlbjN5dEdkV2VWT2ZOVkV1MmV4b1RNbXJZa19nNjJWSGVxR2pSTk9jYm5WVlFwenRvUXpoaGxkVk1LcWFLTUZIektEMjlsVDlxVkF6WWEzbTlhRDhTY0dWQVpoSXVwNWdPSnlBV3pENnNCQTM3ZHdQekQ3RFlwQ3NVd2hBTGw4TWZxN2k?oc=5",
+      "source": "Supply Chain Dive",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Electronics manufacturers fret over extreme heat disruptions &nbsp;&nbsp; Supply Chain Dive",
+      "summaryZh": "本条资讯关注“Electronics manufacturers fret over extreme heat disruptions”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "How many countries have phone bans in school? | Global Education Monitoring Report - UNESCO",
@@ -253,6 +253,15 @@
       "summaryZh": "本条资讯关注“6 Best Places to Buy a Used iPhone (or Other Cell Phone)”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
+      "title": "How Amazon Leo plans to connect mobile devices from space - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajdxUy1zYmtPMHN6ZU5UQVlIc0VZckkwdU4ySVVFakY0QUItTmdCeFRESmxXejVCdzJwbGpKSEtLRGpTQmtmUVNkN19vOVkzcXg2eUY5emNweVg3SWpOZVVIOWo5TDFRcmxTdUZJVWhPSzUycTdOTFdNMjlyRnRGRlVqYzVwd09LRUt1ZWpVZzEzRFJxMENOWVdfNEVRckl6?oc=5",
+      "source": "About Amazon",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "How Amazon Leo plans to connect mobile devices from space &nbsp;&nbsp; About Amazon",
+      "summaryZh": "本条资讯关注“How Amazon Leo plans to connect mobile devices from space”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
       "title": "Kenya cracks down on grey-market phone imports - Africa Business Communities",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFJVNEpxU2U2dHdzTHRoZ0ozUFFXUVk5X0JIRGZ6WkRLRDJONklENTRhaG00RFpVOXk1TURXTlVFUjVoTzFpcHRDMVVYdzVVNHhhLTY5amlxb2RoUW1aTUh4S0prZ2xqSzVtLUl2a0VCY0w2TUgwaHlyYmp5Y0xyZEpaMS1USk1IN0FKVzdxdjhSUEtWdy1qTA?oc=5",
       "source": "Africa Business Communities",
@@ -260,15 +269,6 @@
       "category": "市场与渠道",
       "summary": "Kenya cracks down on grey-market phone imports &nbsp;&nbsp; Africa Business Communities",
       "summaryZh": "本条资讯关注“Kenya cracks down on grey-market phone imports”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
-    },
-    {
-      "title": "Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya - The Kenya Times",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xT3pxLUhxSlltSXI5VDlBb29EYXJWY2ZacEZNc0JpXzh4VVZYRXBXcTFIN3otVlhsRW1JWjVBWGFmTjVlbV9tT0hfaUlBcGVNb2pfYldyelFRdDRURjNvMy1JRERnbFpNWmxkcw?oc=5",
-      "source": "The Kenya Times",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "category": "市场与渠道",
-      "summary": "Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya &nbsp;&nbsp; The Kenya Times",
-      "summaryZh": "本条资讯关注“Govt Introduces New Mandatory Requirements for Mobile Phone Importers and Distributors in Kenya”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
       "title": "Inside Nokia’s Race to Catch the iPhone and Android Wave - IEEE Spectrum",
@@ -280,15 +280,6 @@
       "summaryZh": "本条资讯关注“Inside Nokia’s Race to Catch the iPhone and Android Wave”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "TSMC Leads in Smart Logistics, Setting New Standards for Green Transformation - TSMC",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRRGt6d1pEUkxkRXVOd0ZzZGI0d2FTc2FLVlhMbkJSUUhyTi1Id25vT3B2TzMxQVZqakNGclU5UGotbjFacW9aV1ZfcThObkln?oc=5",
-      "source": "TSMC",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "TSMC Leads in Smart Logistics, Setting New Standards for Green Transformation &nbsp;&nbsp; TSMC",
-      "summaryZh": "本条资讯关注“TSMC Leads in Smart Logistics, Setting New Standards for Green Transformation”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
       "title": "The Top 10 Supply Chain Risks of 2026 and How to Mitigate Them - Oracle NetSuite",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ21vS3FubUF3cVBlZjZiRGpmNTJLT1NaV2Vxa2VEa1V5Umt6dmN6UkFVZjlxVC10dkNJTGZrd3BkbkczaTVCbldHRW9QckdFRExTQm1SNmlodUh1NmUwZ1owVHFUSWVsbV9OMHlCR3cycElZVlFhQkM1QkxqcUlxU0xRaWliNHl0Y2JkV2FrUHh2NmR1cDd0Nlk5dw?oc=5",
       "source": "Oracle NetSuite",
@@ -296,15 +287,6 @@
       "category": "物流与供应链",
       "summary": "The Top 10 Supply Chain Risks of 2026 and How to Mitigate Them &nbsp;&nbsp; Oracle NetSuite",
       "summaryZh": "本条资讯关注“The Top 10 Supply Chain Risks of 2026 and How to Mitigate Them”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "Global Technology Logistics: Challenges & Solutions - DHL",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlg3c3ByVXdUZV9TaUFvRi1SMzdDeEUwMElzRjl4T0xtRE0zUDhMbUlsVG5zSUVuWDl1U3dBcXhrZFJmUDhHSkhDZnFRYl9CbUxUSXJfdGpuZVlpVDRxV2VCaTlfZ3BKYjdENWprc2VQNXNnTDBHdzdHRGMwQlZqUmFCc0NjamtwS2xOVFNDWWVEMzYxZlg5ZHpB?oc=5",
-      "source": "DHL",
-      "published": "Thu, 09 Apr 2026 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Global Technology Logistics: Challenges & Solutions &nbsp;&nbsp; DHL",
-      "summaryZh": "本条资讯关注“Global Technology Logistics: Challenges & Solutions”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "The 6 Best Smartphones for 2026 | Reviews by Wirecutter - The New York Times",
@@ -325,13 +307,22 @@
       "summaryZh": "本条资讯关注“Soaring gas prices and supply chain disruptions drive up costs across the economy”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "Echo Global Logistics Completes Acquisition of ITS Logistics, Expanding Integrated Full Supply Chain Solutions - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVG9sRmNfT3U2YzVYb2NOdzN4Zjh3ZWdkQkhSdkFnS1lyandKbXFZNnJwYTN4MHdNMmx4a1FKZ0IyV1BIZXpCdjQ1SG1ab0NNSGlQMmotcUx4TnpIWjZwVDFlUWlyRjJ4X2N5dHZCMEs3Qk5VYnJ5UmF5d2JWMjlXUmNFZWdvNUlhcFZhR3BubFd5MktwQVpXUUZDekoyUThiN1Q4UTFWN0pOMERHWjJYQ1d2LXVOaXdWOFJ6cmF6bThrV1NkWWRnZjBnRnBxbU03T0h6c3ZaTDdqaU9RVWVodWFYcXNtQVBOajRsZW16UWdVUHRHdHFaeA?oc=5",
-      "source": "PR Newswire",
-      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "title": "Mature Circular Markets Are Setting the Standard for Secondary Tech Trading - SupplyChainBrain",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnhya3JKV3ZwMF9ZZnRXUGp5ek9lMmx3ODVEVzVodUgtOHFld0stUXRaQzdzaWNvZms2MXJGUEx2NFJTZFFkNjJZb3FIeklCY1VYUEstU2VKeUtybDFiU003QXBjOVNrMlQ1YnI0OXh2M21aN2J5RjRxMElxZ1hoOThlNktnMnptX18wTTd1YWVET0hmelZxNTNsdkZxMTRoN243dThVelBoYVk5d3BNdHFFdkhESjNtcmtuQms5REMzVVU2S3oyMV9Sam9PV29QYmw4Xw?oc=5",
+      "source": "SupplyChainBrain",
+      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
       "category": "物流与供应链",
-      "summary": "Echo Global Logistics Completes Acquisition of ITS Logistics, Expanding Integrated Full Supply Chain Solutions &nbsp;&nbsp; PR Newswire",
-      "summaryZh": "本条资讯关注“Echo Global Logistics Completes Acquisition of ITS Logistics, Expanding Integrated Full Supply Chain Solutions”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+      "summary": "Mature Circular Markets Are Setting the Standard for Secondary Tech Trading &nbsp;&nbsp; SupplyChainBrain",
+      "summaryZh": "本条资讯关注“Mature Circular Markets Are Setting the Standard for Secondary Tech Trading”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "What Is a Supply Chain Analyst? (And How to Become One) - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWDBnX2FDUHI2YXJSUFdpV3RSY0lMek1sbmh3NXg3X0FpQ25LODhpdzhfZVhzYXNEWUNHeTdreXZjLUctdzZvSW5URmNXbWVCU0pyMGhkQkVRTU5xUDhnbFRSaVc?oc=5",
+      "source": "Coursera",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "What Is a Supply Chain Analyst? (And How to Become One) &nbsp;&nbsp; Coursera",
+      "summaryZh": "本条资讯关注“What Is a Supply Chain Analyst? (And How to Become One)”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "How Strait of Hormuz closure can become tipping point for global economy - CNBC",
@@ -352,15 +343,6 @@
       "summaryZh": "本条资讯关注“Supply chain disruptions from the Iran war could raise prices for drugs, electronics and more”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "Iran-U.S. war chokes key shipping lane and threatens global cargo industry - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1h1NzUtN2xOM01LdHVaYlNhV3lxd1oxWVFXUlZEblNOOUp4QW9OZDFjNnRxNmN6eXhjcEZXNndQc3h3SWN5QjZtQmxaZkZuckxjcWk2WTlnZktSM1RzNlY1dFp2VzhyV2p0cVVYNnRKN0NJWUdXWTZ3VDVscGNjSi1oaEVHZTEzUjJCSGQxVmFTSnlFVTZpVGFQb20?oc=5",
-      "source": "NBC News",
-      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Iran-U.S. war chokes key shipping lane and threatens global cargo industry &nbsp;&nbsp; NBC News",
-      "summaryZh": "本条资讯关注“Iran-U.S. war chokes key shipping lane and threatens global cargo industry”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
       "title": "Draft for Comments || Guidelines on the Maintenance of Importation and/or Distribution Records, and the Reporting of Product Complaints, Adverse Events, and Field Safety Corrective Actions for Medical Devices - https://www.fda.gov.ph/",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPNnpldG12Qy1HRTlzUkwzT0lhV2ZUOGloV2JNQkQ2NHFIWWc5NVJJUjB2bkY4NnBXMEtFSTVtNHVNT3lZTjV0Um02OFMzWlF0aHRrR1UxbG11cTZQRkEyY0NGblZ0QU1pWFhMWnpJVk1JRzl1ZURqSFZhZzRFWTFjR09QSzltM1h3djZseUdtS2xqNUg2aGd1aGhJU1VLN3BvLTEwQ09idDNMVTB4dHdPbS1KOVdGVnFkNjZSa3pHOUYtbDEyUUlFdFNPRGFlQmNjWlc1MTJ4aElQY2Y0NWNxbmxDQ3pZU2JjRWpjeVJ1QlhrRjZiRjZ2eUxLU1pkbWZ3aVhtOVZURmd4dE16aktPUVZFNU51QTVLQlNTbS1DSnZaMFJFX0ptc3lsUDVlekExaDVhUGx6aHdHQXNUeEtF?oc=5",
       "source": "https://www.fda.gov.ph/",
@@ -370,13 +352,22 @@
       "summaryZh": "本条资讯关注“Draft for Comments || Guidelines on the Maintenance of Importation and/or Distribution Records, and the Reporting of Product Complaints, Adverse Events, and Field Safety Corrective Actions for Medical Devices”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
-      "title": "Cell Phone Statistics (2026) - ConsumerAffairs",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04UkFyblFoUVRtQmFwdkUxNWJqNUIyM3hxUEs0YU5KTl82ekREQXZIZUhnRVhFbTc3aE9yXy16VXhEU25tdG96dGpuSlM2c3R0RWJPRHRDLTlfeEFDeFVoMk5wUTJuSFd5dmR4ckswUjhGcHRmaTRHN0ln?oc=5",
-      "source": "ConsumerAffairs",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Cell Phone Statistics (2026) &nbsp;&nbsp; ConsumerAffairs",
-      "summaryZh": "本条资讯关注“Cell Phone Statistics (2026)”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "title": "Top 25 Supply Chain Leaders in Consumer Electronics Brands in USA 2026 - ClickPost",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkdwWlBLVEh3Nk16MUx4bjVJOFBrdGZzWlRfSi1NeDJCMWF6RmtPc3NuM0twU2EtYmVJOThURkZ5OElUbVpyWkpnYWVaS3ZMQ0FwRjR2RnNFNzA4R1lLQUhxWllFTVllVkdxWEpQenlaS0x5aDJ6X1JKeld2VzVkY0Fn?oc=5",
+      "source": "ClickPost",
+      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Top 25 Supply Chain Leaders in Consumer Electronics Brands in USA 2026 &nbsp;&nbsp; ClickPost",
+      "summaryZh": "本条资讯关注“Top 25 Supply Chain Leaders in Consumer Electronics Brands in USA 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "Top 15 Supply Chain Leaders in Electronics Brands in India 2026 - ClickPost",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjhDUDYyVU9VUlAxdFNXd2xwYWhscWxZcktxRi1jS2NpSDJ2UGpwLURjdnBkSTUwNHpHQkVZYVE4d19pN3dGN2luT3U1UjQycXdxOUZkR0ZoNFFGMm5Jbk1ENFZxd18wWjIxU294VU5QVF9wSk9KRzUwWkx5enNIQU1uWFg?oc=5",
+      "source": "ClickPost",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Top 15 Supply Chain Leaders in Electronics Brands in India 2026 &nbsp;&nbsp; ClickPost",
+      "summaryZh": "本条资讯关注“Top 15 Supply Chain Leaders in Electronics Brands in India 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Time Spent Using Smartphones (2026 Statistics) - Exploding Topics",
@@ -388,13 +379,13 @@
       "summaryZh": "本条资讯关注“Time Spent Using Smartphones (2026 Statistics)”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Exploring Amazon’s Logistics and Supply Chains - Thomasnet",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUklqaXROOU01eXVGazJ2SjZKd2p4UnFpclpmc0g5eXY3SUFWYTczcGZPNGxEc0lZeTBxZkVYdXlrWlUwbGd4Q0NORVZUak9HWTdjVzREVEg4NGR3MmNEa3pnRVFWdU50anVwLWRHVV9sUzJURmI3NUFTZzBiekU3b3ROOVJfNGFJWUVjV0JYYTZ6U0pGaFhWcDMwN2pYN19jZlE?oc=5",
-      "source": "Thomasnet",
-      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "title": "Tech supply chains: collaboration is the next resilience frontier - Maersk",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTlmcEk4ZU1lUERYNFFaUlQyWkdVOURabnFSN2tPSm5ic21YTWNYOGhNQkJoMjU1UURfOTRKNHNpQkhWeDlYUjUtaXJkeTQ0MnBCN2VnVUZIdzJBUEpzUmhvc1RrdlFScU43WjYzYTBaYlVZVmlYZC1VczUwelhaZkNkYl9qMTNkaU9Dc1BVeTRDNml3ZC1hcmdSR0Y?oc=5",
+      "source": "Maersk",
+      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "category": "物流与供应链",
-      "summary": "Exploring Amazon’s Logistics and Supply Chains &nbsp;&nbsp; Thomasnet",
-      "summaryZh": "本条资讯关注“Exploring Amazon’s Logistics and Supply Chains”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+      "summary": "Tech supply chains: collaboration is the next resilience frontier &nbsp;&nbsp; Maersk",
+      "summaryZh": "本条资讯关注“Tech supply chains: collaboration is the next resilience frontier”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Top 10 Mobile Phone Accessories Manufacturers in China for 2025 - Global Sources",
@@ -406,6 +397,15 @@
       "summaryZh": "本条资讯关注“Top 10 Mobile Phone Accessories Manufacturers in China for 2025”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
     },
     {
+      "title": "Govt may cut mobile phone import duty to curb illegal imports - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXQ3VkRPNmdXQTc1bGpEcFVXU1hXTENmeFdyWUl2UE0wVEJhaWV1emR2QVNIQXJEdEZOTS1zRUFFWGVXOWJVVFRpZDJtMWR4SjhBck9uYXlaYWJPd0ZXRnotRUhXZE5UcUNFY3B0WGQ5VWtyYzBfRjRaRl9YbjhfQVVBUWNQWF8tMzREdmRXZDZNWmFGTkZRVU9NZkVTdG9fQkxLMEx1TUxrekVUeXc?oc=5",
+      "source": "The Daily Star",
+      "published": "Wed, 03 Dec 2025 18:26:00 GMT",
+      "category": "市场与渠道",
+      "summary": "Govt may cut mobile phone import duty to curb illegal imports &nbsp;&nbsp; The Daily Star",
+      "summaryZh": "本条资讯关注“Govt may cut mobile phone import duty to curb illegal imports”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
+    },
+    {
       "title": "AI Chip Demand Creates New Global Supply Chain Strains - Inbound Logistics",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRzAzNkVxUlNKVjR5UktaSWZKYnJVUTNPYktWS3RaM3BYckpmNTBiVjY1d0ROLUVUOFlzcUtYNjBBVF9MRjBFV1Z4eFlpVnBfdDFtYUR3NFJWRDNubElick02b1dmcHZGODRINFhReUVKbWlzaTVHbnVubVJ5TkstdUpnaWtFUnl0aU1jN2NvRmRVU3BwTDhNV1h0a0pnQQ?oc=5",
       "source": "Inbound Logistics",
@@ -413,24 +413,6 @@
       "category": "物流与供应链",
       "summary": "AI Chip Demand Creates New Global Supply Chain Strains &nbsp;&nbsp; Inbound Logistics",
       "summaryZh": "本条资讯关注“AI Chip Demand Creates New Global Supply Chain Strains”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "22 Critical Supply Chain Risks to Watch for in 2026 - Z2Data",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnhDcHp4SVJuZ2I2UE5EcUhDU2tIMTNfcUZWN1NfbkFwaGEydU9kcGJMZ2VScUpuRUpleUEyZ0pQaXh1WFlSMEhvUDZ4V3cyQWZvZ2NtMG80VEJQSHBGSkE0TXo4aUw5cnZHTFJzeHVDdUNKOFFsZEV6MnZHb1FzMzJhTE0wVG91cVgtZA?oc=5",
-      "source": "Z2Data",
-      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "22 Critical Supply Chain Risks to Watch for in 2026 &nbsp;&nbsp; Z2Data",
-      "summaryZh": "本条资讯关注“22 Critical Supply Chain Risks to Watch for in 2026”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "Future of Supply Chain [2026-2030]: 10 Trends that will Redefine Logistics - StartUs Insights",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xUHg4XzJUOW0ySURpdV93T0h1Y3R2YmsxNnhZQVFIYkE3UktTM3NNLU5PUGZyRElkWjFnWXhza0ZFMFhRLUd4Nm44d3lOQUtSUTRQbmttWE5RS0hHYmxXbkxLTTFRRWFRdTFaYXVxY3BXZmNyWnVJcDU3a25Odw?oc=5",
-      "source": "StartUs Insights",
-      "published": "Mon, 27 Oct 2025 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Future of Supply Chain [2026-2030]: 10 Trends that will Redefine Logistics &nbsp;&nbsp; StartUs Insights",
-      "summaryZh": "本条资讯关注“Future of Supply Chain [2026-2030]: 10 Trends that will Redefine Logistics”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Oppo Find X9 Pro: Global import model listed at first retailer with price advantage - Notebookcheck",
@@ -469,6 +451,15 @@
       "summaryZh": "本条资讯关注“Wholesale Ecommerce: How It Works and Benefits (2026)”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
+      "title": "Latin America’s Role in De-Risking Semiconductor Supply Chains - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFVPUnUxWTFjeUpscFNCU3hsajRoRURQYkUzLU5oQ3UzU2VpVEhmbk10UXFBMmI3UU5uREkwQjlRVl9HNlBKWHBkdk5ISVNjZk01NUt6R0ozcy00LU82TmhLcnp5a3NpazlPaF9rV1pJMHFtcnZ0YlFqNTlydHYtQ09pM0hYeDItVlUzdlcxX3lldw?oc=5",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "published": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Latin America’s Role in De-Risking Semiconductor Supply Chains &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "summaryZh": "本条资讯关注“Latin America’s Role in De-Risking Semiconductor Supply Chains”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
       "title": "UK Mobile Phone Statistics - Stats Report - Uswitch",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sb1gxTDVNek9SbkFfZ1ozaEhFQWgwa01xR3BTUGNmVENreC1qTXBfb1JpT2JfanN3MS1BRWExQmhxakN1R0dRWlIybFIwRnp3RThYRnFxNWVwQThBd09nTEJfNFM0RDhxR1E?oc=5",
       "source": "Uswitch",
@@ -496,24 +487,6 @@
       "summaryZh": "本条资讯关注“LG Electronics & LogisValley: A Milestone for Logistics”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "Why your old mobile phone may be polluting Thailand - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NXU4UzBaMlBQb0dsdmo1bWMxLU5xXzJqOVdMQWxtckZRV1dmZ09FQ1BaVVdBam44MlJzVTFULTJkZ2Jia01uR1NRZVpkdXRXTE1XMjIxSEVZZw?oc=5",
-      "source": "BBC",
-      "published": "Thu, 26 Jun 2025 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Why your old mobile phone may be polluting Thailand &nbsp;&nbsp; BBC",
-      "summaryZh": "本条资讯关注“Why your old mobile phone may be polluting Thailand”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "How Tariffs Are Reshaping Global Supply Chains in 2025 - SupplyChainBrain",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHJWdVVmS04xb1lTQkRDZHpSN1FWeEdTWjluMXFTc2h6YlFPSWRhNWpRME9UTXBzR0ZzV05mcUtkMUlBTFFVNkRUU0JnVE1pelJEVWQwaEtiUUZlTTAxamtRTTBsSmpRQlBmZHhVYkJ3dkhkTEhMWVVlX3pVMkRDUUZsOUo3WnM1OS0ySG1IOVZ6Ny1xRWdaczBFNi1xTWNFTmhaeUlZSE5ZOGx0Wlg4NFJnLXBQbVdL?oc=5",
-      "source": "SupplyChainBrain",
-      "published": "Wed, 25 Jun 2025 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "How Tariffs Are Reshaping Global Supply Chains in 2025 &nbsp;&nbsp; SupplyChainBrain",
-      "summaryZh": "本条资讯关注“How Tariffs Are Reshaping Global Supply Chains in 2025”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
       "title": "Apple’s Supply Chain: Economic and Geopolitical Implications - American Enterprise Institute - AEI",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1VsQ3dMM2JtOFI4LVJ0RFFpT2tHLXhUMDQwTE9zTzBDUWtGRkZxS1Fmb2JfQnlObmJHaGR5YmI3Zl9IRnp6WlpGYTdlOVVqbjlieHlodmVKX3daWWV0T0JtWDNWOWZEWkdjLURrdmc1Q0xwNl9MdjhnUFFMd3F2X3A4NjFGcnRERGVFWWVTY0tNQTNlU2dnZUJfeVF6ekRIVldxOEd3NA?oc=5",
       "source": "American Enterprise Institute - AEI",
@@ -523,15 +496,6 @@
       "summaryZh": "本条资讯关注“Apple’s Supply Chain: Economic and Geopolitical Implications - American Enterprise Institute”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
-      "title": "Mobile phone road rules and fines in Victoria - RACV",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2lOZ2RzS19Uc25qUGNfRDR2czlNYkE3dHcxdDNVZDFLMFdRMTVGbWhyVVRwTTVhVldPRzJCQ2FuaDZ1U2pzOXIwWTEwTXdJXzhGVlZ2d3htNjJpOENkMkdZdXNibnBGQk9icEg3VWJlSkhNeDNEcU85bUdLdlVsbmRIVHhwMDV5T2FkQXBxQ0VWNEIzdTNsak4tVGM5QzhxV01KNjQxMnA2bWh5?oc=5",
-      "source": "RACV",
-      "published": "Fri, 30 May 2025 07:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "Mobile phone road rules and fines in Victoria &nbsp;&nbsp; RACV",
-      "summaryZh": "本条资讯关注“Mobile phone road rules and fines in Victoria”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
       "title": "How to choose and buy the right power bank for you - TechNave",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFpUemFtTjBLdzl3NDFoZHFmdzAxb0hBNDc0LUo1U1ZGek1jMG1zM0RDc2duQk1lcm4zOVBHTXlRNkwxUEg3YTI1aWtYc1JvRE5rUTIyNXAxNWlXbFVHUUd2dU5WVEJwSkFpeFpLb1FvVHMzcVgwODF6eUpmWUlrdjVpM3J3YjNPTzV2QUFjczdxQms?oc=5",
       "source": "TechNave",
@@ -539,15 +503,6 @@
       "category": "法规与合规",
       "summary": "How to choose and buy the right power bank for you &nbsp;&nbsp; TechNave",
       "summaryZh": "本条资讯关注“How to choose and buy the right power bank for you”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
-    },
-    {
-      "title": "Guide to shipping electronics to China from the Philippines - DHL",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU5XOHlMWlMtaFZ5OXJQM0NwNExuQWd6NlcxRmZtbmROUk1NWkFkaDR4ZGRmcnRlUnZIWVBrbGE1Y3EzVWpacUVLcFczbVpkZWhZMl9FRmNrUnBVam9pNmhwbXBkekUzb29YS0oycWotUExNYk5FR2NMcWhTdEgwWXlrN1NjU2h4bHhxaTJfNTB6NWM5V2JsMWF3d3BBNUo4T3BPdHRLZ2JQYVVaM2E0Q1k2ZUdwWmJuaC1OdGlIQTJ1ZHBJS0pHcG5vMFE?oc=5",
-      "source": "DHL",
-      "published": "Thu, 22 May 2025 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Guide to shipping electronics to China from the Philippines &nbsp;&nbsp; DHL",
-      "summaryZh": "本条资讯关注“Guide to shipping electronics to China from the Philippines”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Pocket-sized progress: Smartphones and NSF innovations | NSF - U.S. National Science Foundation - U.S. National Science Foundation (.gov)",
@@ -586,13 +541,22 @@
       "summaryZh": "本条资讯关注“To ban or not to ban?”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "EU common charger rules: Power all your devices with a single charger - European Commission",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjFwOUltSktiZm1HSFUzS2RlT3RCME92dXJKNTBoVEZTS2MxYmFVa2VfQWt0eFFibE4wSlN5QU1fWkhhLU9RM2VaeXljUkxjbi1DcjhEa1R5YjY4OWdQb0YyNFlPeUo2dFk2V0xIdDBBLThxTzJpSTBkS2FDcUFYbnhxYkJxRnAweGZHZURIblF3X1gzUDBhV2xQZDVIZDlCM1RBY0VfZ25tUkVUVW5rNFN0dDFiMzF3Y08zOFd6WnRmdw?oc=5",
-      "source": "European Commission",
-      "published": "Sat, 28 Dec 2024 08:00:00 GMT",
-      "category": "手机与消费电子",
-      "summary": "EU common charger rules: Power all your devices with a single charger &nbsp;&nbsp; European Commission",
-      "summaryZh": "本条资讯关注“EU common charger rules: Power all your devices with a single charger”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+      "title": "Cofactr Raises $17M Series A to Streamline Supply Chain So Hardware Manufacturers Can Iterate Fast While Complying With Regulations and Policies - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSi1YRkZ1OFQ4eFFWY2c4NUpEZEtIRkM5eld1a0haa2RfaXNCMzNJZEF2cF9RUWNra0RKWEVfRURDZ2NEQ1MtdjRrdTlBRnA2SDVudnVJandfR1dmZGFWdEtORldUckQ4RFhSOW9QZzluSFJEMndKakx6YVh0QUlBVWs0bWk2Qk1uWEJhSFVXTkdqTkgwNHJMOU10N2xaNVlTSlFVcmxqYVd4QjhEUWg3NE5OT2NTb2d1MC1LSkdZQlY0dV9USk9Nc1dWajR0a0ZwaHRvMFBBODhpdVU0NUxPMGVaenJCNVUydk5UWEVnSmh2M2ZOaFVLT0pNQ19LWGNvM2xkbzJIVjFLby10ajFYTzhuX2t2d3BOY2p2b185c2Z3RkszQ0ZuYTlKcw?oc=5",
+      "source": "Business Wire",
+      "published": "Thu, 12 Dec 2024 08:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Cofactr Raises $17M Series A to Streamline Supply Chain So Hardware Manufacturers Can Iterate Fast While Complying With Regulations and Policies &nbsp;&nbsp; Business Wire",
+      "summaryZh": "本条资讯关注“Cofactr Raises $17M Series A to Streamline Supply Chain So Hardware Manufacturers Can Iterate Fast While Complying With Regulations and Policies”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "Harnessing the power of AI in distribution operations - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE54UjNMbzVvOFRtN09Vb2hPeWNRenhzZXFKa0dpbHMxY2dhM3N3NjZlYkgtWjdVMTdUU3o5WHA5ZGxKMURGdW1ZLTYwbTctQ1ZfSXlXZ3ppS2RYS3h5cFRtRkZGUEwxckdiRTNPQlUweFVDak9XdlFvTF9EX0JQWDVDdWpOR0RDRFVta1NuaDJGem04UXhtN0NnU2tYM0tEejJXTnBGaGMyVFlmb25CenNRdDFqTG5DWHBsQW16MWhFcnhZMUZtcHpvV3A?oc=5",
+      "source": "McKinsey & Company",
+      "published": "Fri, 15 Nov 2024 08:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Harnessing the power of AI in distribution operations &nbsp;&nbsp; McKinsey & Company",
+      "summaryZh": "本条资讯关注“Harnessing the power of AI in distribution operations”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "The Impact of the Red Sea Crisis on Global Shipping and Trade - Freightos",
@@ -640,6 +604,15 @@
       "summaryZh": "本条资讯关注“Cellphone Retailer Becomes Armenia’s Top Taxpayer”。主要涉及市场需求、渠道布局、企业合作或销售变化，建议关注目标国家的客户机会与竞争格局。"
     },
     {
+      "title": "Case study: How supply chain helps an electronics company’s customers - EY",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRTlaNjE4OTJDbzFnX2l0ZGluVnhpb3hvdXFKNk9EOUI4SHVzeGhqVkxnd1daNmVHaDEtcHRkMXlqbGd2Tlh1QnhJUzA3YWJRU1IxM1FlZjBkQ0RvWnpSZl95T2RRYlBiUG96VU1hcWRqZ0hkYVBfM0lhVkFoSXpRZjNSNjI5OFJmVWpHcHBFWnVId3NNTGhnaGh5MlRYX0VFTlBpYWdaSThXcEU3MTdKQk1sZ2dIcEhHN0RlNGMxb3dSbFpR?oc=5",
+      "source": "EY",
+      "published": "Sat, 09 Mar 2024 03:29:14 GMT",
+      "category": "物流与供应链",
+      "summary": "Case study: How supply chain helps an electronics company’s customers &nbsp;&nbsp; EY",
+      "summaryZh": "本条资讯关注“Case study: How supply chain helps an electronics company’s customers”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
       "title": "Americans’ Use of Mobile Technology and Home Broadband - Pew Research Center",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2RXOTVISmI2RVRqME5ua2VWTnlIQ2Y4TFU1eWQ5dFk4OW4zdU8xem1LVURfRmtvOEhGSnhFTWREdFFCY3RmdmtIQ0hTU2d5ZTNxU0ZRaGl4ZVBCYVZPbkhVbC0tSVBaLWlvbzRnc3JHRkJuWXZuckQtSGRQa1NLb0JwZTU3Q0V6RnZFa0pQU3N5MDZVeXRvU3A3MUxoX3dkUUM5Sg?oc=5",
       "source": "Pew Research Center",
@@ -649,22 +622,13 @@
       "summaryZh": "本条资讯关注“Americans’ Use of Mobile Technology and Home Broadband”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
-      "title": "Tips for shipping electronics overseas - DHL",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1NaRkU3V3k0dzJ5dWhXZEpOd2JSVi1xallrVmNpamlHbXg4aEc0MTNsVl9tUHBMRWZSZmlLa1JIM3FjR24xSkdKZUphSm1jbnJCdUxYYXFzOG8tLVhqREFnLVJWeW5OejZnbkdCdmtnMzN5a3VuSThJWERPYjFoV0pfQ2JkTW45QS1DZnhVS29TemlDY0NnVU1Wb3NXTFlkcER1V1NxLXJtTVF2M2c?oc=5",
-      "source": "DHL",
-      "published": "Mon, 25 Dec 2023 08:00:00 GMT",
+      "title": "Enhancing High-Value Electronics Shipment Security with Tive's Real-Time Tracking - SupplyChainBrain",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLURlSVdOMnhxWXVoRzRQdjcxdm5sR1NiYjJUcWl5ZmVwR2Vfb0NFNHozcnhnZ0ZBd1RvcEVkeGtXZmJfNkJfNnM2cmU2NVRnZlF0RmgyVlpXMHN3RXh0aGlhT0pVWDRMRHhKb2o1dlpCd3VjcHVrRnJ4WHc4b19BUTJ6RVNXV3Jma1c2NmRITHhGMm9UNnk1REtfaVRiY1hGVm9kLVhkbllZb2FVLWpwV2JoNEFNUXJLQUFxZ0hwSElUYTZPTkkySHlCQjJLdzlMejBWSGU2aWtoRUU?oc=5",
+      "source": "SupplyChainBrain",
+      "published": "Thu, 05 Oct 2023 07:00:00 GMT",
       "category": "物流与供应链",
-      "summary": "Tips for shipping electronics overseas &nbsp;&nbsp; DHL",
-      "summaryZh": "本条资讯关注“Tips for shipping electronics overseas”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
-    },
-    {
-      "title": "Top 10: Reverse logistics companies - Supply Chain Digital Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Cb3BnUmdVZWdPZFZEMzZ6N2I3eWpiTHNrUzFNRldnUTZJdVVXOE1yVG9qclBYcWR6RTgxS1p1TVR5Yjl1Rkl1VG1jcnlXdDE5R09kcFN3OTkzSXlleUNDdks4VGp6dVZ6SWlpY2VkZTkwMHlYWVNlX3JNQQ?oc=5",
-      "source": "Supply Chain Digital Magazine",
-      "published": "Thu, 30 Nov 2023 08:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Top 10: Reverse logistics companies &nbsp;&nbsp; Supply Chain Digital Magazine",
-      "summaryZh": "本条资讯关注“Top 10: Reverse logistics companies”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+      "summary": "Enhancing High-Value Electronics Shipment Security with Tive's Real-Time Tracking &nbsp;&nbsp; SupplyChainBrain",
+      "summaryZh": "本条资讯关注“Enhancing High-Value Electronics Shipment Security with Tive's Real-Time Tracking”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Mobile Phone Technology Could Expand Equitable Access to Financial Services in Ethiopia - World Bank Blogs",
@@ -674,15 +638,6 @@
       "category": "手机与消费电子",
       "summary": "Mobile Phone Technology Could Expand Equitable Access to Financial Services in Ethiopia &nbsp;&nbsp; World Bank Blogs",
       "summaryZh": "本条资讯关注“Mobile Phone Technology Could Expand Equitable Access to Financial Services in Ethiopia”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
-    },
-    {
-      "title": "Semiconductor Logistics: Key to Global Supply Chain - DHL",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0VvQ2JqX2d5SUpkczhhd181eG9Pb2tGcDBiZTFzdjF1RjBkTUVrdlZybzhuTkxzYjZvUkY4TXcxU2wxYm1GN01reGVyekRiVnVDeWlkM2xhR2FScWNDR0NWTDFueFRsRXpaN3VuejZtLVA3QXMzcVpLam9Xck5YZ1Bqa2J5MHFSeVBzdjBldHpXUWIwYy14TzF1UUpZV09WdGZwS09DdS1lY00?oc=5",
-      "source": "DHL",
-      "published": "Thu, 22 Jun 2023 07:00:00 GMT",
-      "category": "物流与供应链",
-      "summary": "Semiconductor Logistics: Key to Global Supply Chain &nbsp;&nbsp; DHL",
-      "summaryZh": "本条资讯关注“Semiconductor Logistics: Key to Global Supply Chain”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
     },
     {
       "title": "Draft for Comments || Updated Guidelines on the Application for License to Operate of Health Product Establishments with the Food and Drug Administration - www.fda.gov.ph",
@@ -739,6 +694,15 @@
       "summaryZh": "本条资讯关注“'Father of the cell phone' says one day we'll have devices embedded under our skin”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     },
     {
+      "title": "9 ocean carriers commit to 100% electronic bill of lading by 2030 - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFZkUjhxZ3ZUSmNfbmRkMVVseHlSWUJZMVdUSnVJdUc1X3FWenFHR19OelpKWF9aZ3p3aHlKUkVnRThWbkNkN1hEaExQWko3MURjSlBwU1dSQjRST0dIZG1jeHJhOFJFckRvZTYxQ2dWMXV4UHB2a3VJMGpIb19IamVrWFhZUFJMR2syckRNQi11bnJhVW9MNEpaeXdHcndBQlJsMUJMMFUzdi1LUEE?oc=5",
+      "source": "Supply Chain Dive",
+      "published": "Thu, 23 Feb 2023 08:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "9 ocean carriers commit to 100% electronic bill of lading by 2030 &nbsp;&nbsp; Supply Chain Dive",
+      "summaryZh": "本条资讯关注“9 ocean carriers commit to 100% electronic bill of lading by 2030”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
       "title": "For shopping, phones are common and influencers have become a factor – especially for young adults - Pew Research Center",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRUI1RDdONkROU1B5VENwaDl0SnZ3WDlodTZJalMzZVRRR0VRN3hGbXZPSHJleWJZQkVVN3BrdTBBc19oZFAycjgwd3pTMm5LOUpOWWluMTlkaTRwLUFadnZ1b2dKSHpOeUtBQVFmUVVPZzdMY05IeEdiVVktZ0Rhclp2STJkT2dDejJMSG1WYWdzaVc2NVQ5aFBiR2JoTjh4TDcxM3BSTjRMVlJLblpxQVJ5UXpUcXlkY2k0Njh4YmcxZjFHcFJkbVBHdEhOLTVQcVJGWXBVOEdydFY5UkExQQ?oc=5",
       "source": "Pew Research Center",
@@ -746,6 +710,42 @@
       "category": "手机与消费电子",
       "summary": "For shopping, phones are common and influencers have become a factor – especially for young adults &nbsp;&nbsp; Pew Research Center",
       "summaryZh": "本条资讯关注“For shopping, phones are common and influencers have become a factor – especially for young adults”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
+    },
+    {
+      "title": "Meeting the challenge of supply chain disruption - Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTy1DMS1aUVV4aXFXS3BFRlI0WmlGSDF1MzVBQmlla01mRWJ6Q2Q4cGdQZkwwSG5SZFRjTmh2Y1JFRTY2bHVQSFlpdG50TUlnMFZCRkxmc21fdmlvanc1NEtKUUQ0dHVFZmlXWWlIYXo1NHFma05uOEFMMjgtTXVNNTlHZ05JN3Vua3pEc3hzZDRpb0pPUTRSX3Bnano5ZVFyVlppLWN4RmtfWEtvRzIwVi1udVh2LWtwcW1vM3hOZGp6Qk5NaDN2cVp1RGoxOE44S3gwNA?oc=5",
+      "source": "Deloitte",
+      "published": "Tue, 20 Sep 2022 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Meeting the challenge of supply chain disruption &nbsp;&nbsp; Deloitte",
+      "summaryZh": "本条资讯关注“Meeting the challenge of supply chain disruption”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "Ripple effects from Russia-Ukraine war test global economies - MIT Sloan",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1ZHZFI1ZVNFUndreW5hZjViNmVwTFZXUkUtYmlKVU9qdW43N3BWeVNQSXhhcUFObWVrTWtjS2pfeVlvVDNMalNWemFNVzM4cFZQNnlTYnZwc0xmZnFGenFXcGlwSmxPSDY2VmJSd0JYbk55aTdGbW1ibXBoZ0NNMmE5blE2MUxoOWlaOVB2S0YtVXRhb0VybWs1TTdXY2FnZ204?oc=5",
+      "source": "MIT Sloan",
+      "published": "Tue, 28 Jun 2022 07:00:00 GMT",
+      "category": "物流与供应链",
+      "summary": "Ripple effects from Russia-Ukraine war test global economies &nbsp;&nbsp; MIT Sloan",
+      "summaryZh": "本条资讯关注“Ripple effects from Russia-Ukraine war test global economies”。主要涉及物流服务、供应链合作、运输效率或中断风险，建议关注运价、交期及供应稳定性。"
+    },
+    {
+      "title": "Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS) - environment.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEE4eXlkVXAtRlNSeUE2S3p6QXpzMklGWmNiRExZc2JLOXpuM3U4bWZhMXBBUHlHVkNkNUttMVNXSXI5TnBIeWRZUTBmME15V25oczFvN1pkWk43TlhKSXRDbmx3Q2ZvQ2pod2h5VXpCdHVlajBYRWdTeUFfT0NiMEFHZw?oc=5",
+      "source": "environment.ec.europa.eu",
+      "published": "Mon, 13 Jun 2022 16:38:59 GMT",
+      "category": "法规与合规",
+      "summary": "Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS) &nbsp;&nbsp; environment.ec.europa.eu",
+      "summaryZh": "本条资讯关注“Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS)”。主要涉及产品准入、认证、关税或监管变化，建议核对目标市场的合规要求与生效时间。"
+    },
+    {
+      "title": "3 Reasons to Ditch Your Phone Before Bed - Cleveland Clinic Health Essentials",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXlsNlhjX2FQOXdvcEhSVUtJb3VBYnp4NkdTNEZSSUIxVDIyTTU0c3VlRklWc3dRT3l6S0pWUkY3RGZSRzFtQWdMbzVWM3pUbnFKVm8zdWt1VlU2NEljTDhwNEtaLThSSkFoWWhHSHlXakNpekxzYmhqc2c2ZlcxSnkxNkJ0eV9Qd1lFblVLNW91U1dXMkZ0Snk4ZjRXS2EybkhHeXJhX2RuLW8?oc=5",
+      "source": "Cleveland Clinic Health Essentials",
+      "published": "Fri, 20 May 2022 07:00:00 GMT",
+      "category": "手机与消费电子",
+      "summary": "3 Reasons to Ditch Your Phone Before Bed &nbsp;&nbsp; Cleveland Clinic Health Essentials",
+      "summaryZh": "本条资讯关注“3 Reasons to Ditch Your Phone Before Bed”。主要涉及新品、关键零部件、产品规格或品牌动向，建议关注价格、上市节奏及对产品规划的影响。"
     }
   ]
 }
